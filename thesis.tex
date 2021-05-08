@@ -1,0 +1,218 @@
+\documentclass[reqno,12pt,oneside]{report} % right-side equation numbering, 12 point font, print one-sided
+%\documentclass[reqno,12pt,twoside,openright]{report} % right-side equation numbering, 12 point font, print two-sided, Chapters start on odd pages. Rackham only accepts one-sided, so this is for personal printings.
+
+\usepackage{rac}         % Use Rackham thesis style file
+\usepackage[hyphens]{url}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage{todonotes}
+%% Tentative: newtx for better-looking Times
+\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+%\usepackage{newtxtext,newtxmath}
+
+%\usepackage{aas_macros}  % To allow the reading of ADS journal references in the bibliography
+\usepackage[intlimits]{amsmath} % Puts the limits of integrals on top and bottom
+\usepackage{amsxtra}     % Use various AMS packages
+\usepackage{amsthm,bbold}
+\usepackage{amssymb,fixmath}
+\usepackage{amsfonts}
+\usepackage{nicefrac}    % Add some packages for figures. Read epslatex.pdf on ctan.tug.org
+\usepackage{rotating}
+\usepackage{color}
+\usepackage{epsfig}
+%\usepackage{subfigure}   % To make subfigures. Read subfigure.pdf on ctan.tug.org
+\usepackage{verbatim}
+\usepackage[printonlyused]{acronym} % For the List of Abbreviations. Read acronym.pdf on ctan.tug.org
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+
+\usepackage[]{hyperref}	
+\usepackage{verbatim}
+\usepackage{braket,float}
+\usepackage{pdflscape,everypage}
+\usepackage[inline]{enumitem}
+\usepackage{mathtools}
+\usepackage{nomencl}
+\makenomenclature
+
+\usepackage{setspace}    % Allows you to specify the line spacing
+\doublespacing           % \onehalfspacing for 1.5 spacing, \doublespacing for 2.0 spacing.
+
+
+% Various theorem environments. All of the following have the same numbering
+% system as theorem.
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{question}[theorem]{Question}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{assumption}[theorem]{Assumption}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{condition}[theorem]{Condition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{introduction}[theorem]{Introduction}
+
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\numberwithin{theorem}{chapter}     % Numbers theorems "x.y" where x
+                                    % is the section number, y is the
+                                    % theorem number
+
+%\renewcommand{\thetheorem}{\arabic{chapter}.\arabic{theorem}}
+
+%\makeatletter                      % This sequence of commands will
+%\let\c@equation\c@theorem          % incorporate equation numbering
+%\makeatother                       % into the theorem numbering scheme
+
+%\renewcommand{\theenumi}{(\roman{enumi})}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% If printing two-sided, this makes sure that any blank page at the
+% end of a chapter will not have a page number.
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
+\hbox{}
+\thispagestyle{empty}
+\newpage
+\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% The following is needed so that the pagenumber 
+%%% in the landscape mode appears in the right place
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Lpagenumber}{\ifdim\textwidth=\linewidth\else\bgroup
+  \dimendef\margin=0 %use \margin instead of \dimen0
+  \ifodd\value{page}\margin=\oddsidemargin
+  \else\margin=\evensidemargin
+  \fi
+  \raisebox{\dimexpr -\topmargin-\headheight-\headsep-0.5\linewidth}[0pt][0pt]{%
+    \rlap{\hspace{\dimexpr \margin+\textheight+\footskip}%
+    \llap{\rotatebox{90}{\thepage}}}}%
+\egroup\fi}
+\AddEverypageHook{\Lpagenumber}%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Uncomment if using Bib-tex
+% \usepackage[authoryear,sort&compress]{natbib}
+% \usepackage{bibunits}
+% \defaultbibliographystyle{apsrmp}
+% \usepackage{babel,csquotes,xpatch}% recommended
+
+% Must use biblatex to produce the Published Contents and Contributions, per-chapter bibliography (if desired), etc.
+\usepackage[backend=biber,natbib,style=phys,url=false,giveninits=true,uniquename=false, hyperref]{biblatex}
+\addbibresource{References.bib}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+
+% Title page as required by Rackham dissertation guidelines
+\titlepage{Electronic Spectroscopy of Topological Superconductor FeTe$_{(1-x)}$Se$_{x}$}{Mason J. Gray}
+{Doctor of Philosophy}{May}{2021}
+
+% Begin the front matter as required by Rackham dissertation guidelines
+\initializefrontsections
+
+% Optional Frontispiece
+%\frontispiece{\includegraphics[width=\textwidth]{Intro/Frontispiece.png}}
+
+% Optional, but recommended, Copyright page
+\copyrightpage{2021}{Mason J. Gray}
+
+% Page numbering. If you don't include a frontispiece or copyright page, you'll need to change this for two-sided printing.
+\makeatletter
+\if@twoside \setcounter{page}{4} \else \setcounter{page}{1} \fi
+\makeatother
+
+\listoftodos
+
+% Optional in-dissertation Abstract Page
+\startabstractpage
+{Electronic Spectroscopy of Topological Superconductor FeTe$_{(1-x)}$Se$_{x}$}{Mason J. Gray}{Kenneth S. Burch, Ph.D.}
+\input{Abstract/Abstract}
+\label{Abstract}
+
+% Optional Dedication page
+%\dedicationpage{For my family and my loving, supporting wife, Amanda.}
+
+% Optional Acknowledgements page
+\startacknowledgementspage
+\input{Intro/Acknowledgements}
+\label{Acknowledgements}
+
+% Optional Preface page
+%\startprefacepage
+%\input{Preface}
+%\label{Preface}
+
+% Table of contents, list of figures, etc.
+\tableofcontents     % Required
+\listoffigures       % Required if there is more than one figure
+%\listoftables        % Required if there is more than one table
+%\listofmaps          % Required if there is more than one map
+\listofappendices    % Required if there is more than one appendix
+\listofabbreviations % Optional. Abbreviations should be stored in a file named abbr.tex
+
+\startthechapters
+% The individual files for each of the chapters are put here.
+% Save each chapter of your thesis to a separate tex file
+% and then use the \input command to include this file in your
+% thesis.  For instance you can save a file to "intro.tex" and
+% then type \input{intro}.
+
+\chapter{Introduction}
+\label{chap:Intro}
+\input{Intro/Intro}
+
+\chapter{Cleanroom-in-a-Glovebox}
+\label{chap:chap2}
+\input{Chap2/chap2} 
+ 
+\chapter{Topology in FeTe\texorpdfstring{$_{0.55}$}{0.55}Se\texorpdfstring{$_{0.45}$}{0.45}}
+\label{chap:CRAIG}
+\input{Chap3/chap3}
+ 
+\chapter{New Results in FeTe\texorpdfstring{$_{0.55}$}{0.55}Se\texorpdfstring{$_{0.45}$}{0.45}}
+\label{chap:PAR}
+\input{Chap4/Chap4}
+ 
+\chapter{Conclusion}
+\label{chap:conclusion}
+\input{Chap5/chap5}
+
+\startappendices
+\appendix{Pseudocode for Andreev Reflection fitting}
+\label{app:ARfit}
+\input{Appendices/ARFit}
+ 
+\appendix{Model of the differential conductance circuit}
+\label{app:Circuit}
+\input{Appendices/Circuit}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%   BIBLIOGRAPHY %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\startbibliography
+\begin{singlespace}
+    \printbibliography[heading = none]
+\end{singlespace}
+
+\end{document}

@@ -1,0 +1,20 @@
+\defcounter {refsection}{0}\relax 
+\noindent \underline {\bf Appendix}\hfill \rm \newline 
+\defcounter {refsection}{0}\relax 
+\hbox { }
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\numberline {A.}{\ignorespaces \rm Pseudocode for Andreev Reflection fitting}}{36}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {1}{\ignorespaces Single Gap \ac {BTK} conductance}}{43}{algorithm.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {2}{\ignorespaces BTK at finite temperature}}{45}{algorithm.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {3}{\ignorespaces Two Gap BTK Fit}}{45}{algorithm.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {4}{\ignorespaces BCS Gap}}{45}{algorithm.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {5}{\ignorespaces BTK Temperature Fit}}{46}{algorithm.5}%
+\defcounter {refsection}{0}\relax 
+\hbox { }
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\numberline {B.}{\ignorespaces \rm Model of the differential conductance circuit}}{47}{appendix.B}%

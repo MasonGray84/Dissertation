@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.5.8)  17 MAY 2021 11:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.5.8)  17 MAY 2021 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1260,12 +1260,12 @@ although it is yet undefined on input line 19.
 
  [10] (./thesis.loa
 Overfull \hbox (236.30359pt too wide) in paragraph at lines 8--20
-[][][]\OT1/cmr/m/n/12 Single Gap [][] con-duc-tance[]43[][]BTK
+[][][]\OT1/cmr/m/n/12 Single Gap [][] con-duc-tance[]44[][]BTK
  []
 
 
 Overfull \hbox (144.10048pt too wide) in paragraph at lines 8--20
-\OT1/cmr/m/n/12 Fit[]45[][]BCS Gap[]45[][]BTK
+\OT1/cmr/m/n/12 Fit[]46[][]BCS Gap[]46[][]BTK
  []
 
 )
@@ -1310,7 +1310,7 @@ LaTeX Warning: Citation 'Chae2016' on page 2 undefined on input line 3.
 [2
 
 ]
-<Chap2/Figures/IntroductionFigure.png, id=512, 483.7272pt x 345.9324pt>
+<Chap2/Figures/IntroductionFigure.png, id=516, 483.7272pt x 345.9324pt>
 File: Chap2/Figures/IntroductionFigure.png Graphic file (type png)
 <use Chap2/Figures/IntroductionFigure.png>
 Package pdftex.def Info: Chap2/Figures/IntroductionFigure.png  used on input li
@@ -1370,7 +1370,7 @@ Overfull \hbox (8.60245pt too wide) in paragraph at lines 18--19
  []
 
 [5]
-<Chap2/Figures/CharacterizationFigure.png, id=533, 257.2812pt x 266.9172pt>
+<Chap2/Figures/CharacterizationFigure.png, id=537, 257.2812pt x 266.9172pt>
 File: Chap2/Figures/CharacterizationFigure.png Graphic file (type png)
 <use Chap2/Figures/CharacterizationFigure.png>
 Package pdftex.def Info: Chap2/Figures/CharacterizationFigure.png  used on inpu
@@ -1419,7 +1419,7 @@ LaTeX Warning: Citation 'KUMAR2020112123' on page 6 undefined on input line 29.
 
 
 [6] [7 <./Chap2/Figures/CharacterizationFigure.png>] [8]
-<Chap2/Figures/FabricationFigure.png, id=551, 483.2454pt x 323.7696pt>
+<Chap2/Figures/FabricationFigure.png, id=555, 483.2454pt x 323.7696pt>
 File: Chap2/Figures/FabricationFigure.png Graphic file (type png)
 <use Chap2/Figures/FabricationFigure.png>
 Package pdftex.def Info: Chap2/Figures/FabricationFigure.png  used on input lin
@@ -1582,7 +1582,7 @@ LaTeX Warning: Citation 'Wang2015' on page 14 undefined on input line 3.
 
 LaTeX Warning: Citation 'Wang2018' on page 14 undefined on input line 3.
 
-<Chap3/Figures/F1V1.png, id=579, 505.89pt x 415.3116pt>
+<Chap3/Figures/F1V1.png, id=583, 505.89pt x 415.3116pt>
 File: Chap3/Figures/F1V1.png Graphic file (type png)
 <use Chap3/Figures/F1V1.png>
 Package pdftex.def Info: Chap3/Figures/F1V1.png  used on input line 6.
@@ -1762,7 +1762,7 @@ ess to be observed[[]].
  []
 
 [17] [18]
-<Chap3/Figures/Figure2.png, id=607, 556.479pt x 387.3672pt>
+<Chap3/Figures/Figure2.png, id=611, 556.479pt x 387.3672pt>
 File: Chap3/Figures/Figure2.png Graphic file (type png)
 <use Chap3/Figures/Figure2.png>
 Package pdftex.def Info: Chap3/Figures/Figure2.png  used on input line 23.
@@ -1874,7 +1874,7 @@ LaTeX Warning: Citation 'Lofwander2001' on page 21 undefined on input line 32.
 LaTeX Warning: Citation 'Zhang2018' on page 22 undefined on input line 34.
 
 [22]
-<Chap3/Figures/Figure3.png, id=636, 550.2156pt x 193.6836pt>
+<Chap3/Figures/Figure3.png, id=640, 550.2156pt x 193.6836pt>
 File: Chap3/Figures/Figure3.png Graphic file (type png)
 <use Chap3/Figures/Figure3.png>
 Package pdftex.def Info: Chap3/Figures/Figure3.png  used on input line 38.
@@ -1888,7 +1888,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 39
 LaTeX Warning: Citation 'Zareapour2012' on page 23 undefined on input line 42.
 
 [23 <./Chap3/Figures/Figure3.png>] [24]
-<Chap3/Figures/Figure4.png, id=653, 572.3784pt x 192.72pt>
+<Chap3/Figures/Figure4.png, id=657, 572.3784pt x 192.72pt>
 File: Chap3/Figures/Figure4.png Graphic file (type png)
 <use Chap3/Figures/Figure4.png>
 Package pdftex.def Info: Chap3/Figures/Figure4.png  used on input line 48.
@@ -1929,7 +1929,7 @@ df>
 s-converted-to.pdf Chap4/Figures/DeviceFab.eps>
 (epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=680, 469.755pt x 160.6pt>
+<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=684, 469.755pt x 160.6pt>
 File: Chap4/Figures/DeviceFab-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/DeviceFab-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/DeviceFab-eps-converted-to.pdf  used on 
@@ -1949,15 +1949,19 @@ Package epstopdf Info: Source file: <Chap4/Figures/Temperature.eps>
 (epstopdf)                    size: 563932 bytes
 (epstopdf)             Command: <repstopdf --outfile=Chap4/Figures/Temperature-
 eps-converted-to.pdf Chap4/Figures/Temperature.eps>
-(epstopdf)             \includegraphics on input line 15.
+(epstopdf)             \includegraphics on input line 17.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/Temperature-eps-converted-to.pdf, id=683, 471.7625pt x 471.7625p
+<Chap4/Figures/Temperature-eps-converted-to.pdf, id=689, 471.7625pt x 471.7625p
 t>
 File: Chap4/Figures/Temperature-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/Temperature-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/Temperature-eps-converted-to.pdf  used o
-n input line 15.
+n input line 17.
 (pdftex.def)             Requested size: 416.9982pt x 417.00229pt.
+
+LaTeX Warning: Marginpar on page 28 moved.
+
+[28]
 Package epstopdf Info: Source file: <Chap4/Figures/MagneticField.eps>
 (epstopdf)                    date: 2021-05-08 10:17:48
 (epstopdf)                    size: 200994 bytes
@@ -1967,30 +1971,30 @@ to.pdf>
 (epstopdf)                    size: 60828 bytes
 (epstopdf)             Command: <repstopdf --outfile=Chap4/Figures/MagneticFiel
 d-eps-converted-to.pdf Chap4/Figures/MagneticField.eps>
-(epstopdf)             \includegraphics on input line 22.
+(epstopdf)             \includegraphics on input line 25.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=684, 470.75874pt x 483.80
+<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=698, 470.75874pt x 483.80
 75pt>
 File: Chap4/Figures/MagneticField-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/MagneticField-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/MagneticField-eps-converted-to.pdf  used
- on input line 22.
+ on input line 25.
 (pdftex.def)             Requested size: 416.9982pt x 428.55719pt.
-) [28] [29 <./Chap4/Figures/DeviceFab-eps-converted-to.pdf>] [30 <./Chap4/Figur
-es/Temperature-eps-converted-to.pdf>] [31 <./Chap4/Figures/MagneticField-eps-co
-nverted-to.pdf>]
+) [29 <./Chap4/Figures/DeviceFab-eps-converted-to.pdf>] [30 <./Chap4/Figures/Te
+mperature-eps-converted-to.pdf>] [31 <./Chap4/Figures/MagneticField-eps-convert
+ed-to.pdf>] [32]
 CHAPTER V.
-(./Chap5/chap5.tex [32
+(./Chap5/chap5.tex [33
 
 ]
 Package acronym Info: Label `acro:TI' newly defined as it shall be overridden
 although it is yet undefined on input line 4.
 
 
-LaTeX Warning: Citation 'Osterhoudt2019' on page 33 undefined on input line 11.
+LaTeX Warning: Citation 'Osterhoudt2019' on page 34 undefined on input line 11.
 
 
-) [33] [34] [35
+) [34] [35] [36
 
 ]
 APPENDIX A.
@@ -1998,12 +2002,12 @@ Package hyperref Info: bookmark level for unknown appendix defaults to 0 on inp
 ut line 200.
 (./Appendices/ARFit.tex
 
-LaTeX Warning: Citation 'Andreev1964' on page 36 undefined on input line 4.
+LaTeX Warning: Citation 'Andreev1964' on page 37 undefined on input line 4.
 
 
-LaTeX Warning: Citation 'BTK' on page 36 undefined on input line 4.
+LaTeX Warning: Citation 'BTK' on page 37 undefined on input line 4.
 
-[36
+[37
 
 ]
 
@@ -2011,13 +2015,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ac' on input line 6.
 
 
-LaTeX Warning: Citation 'BTK' on page 37 undefined on input line 7.
+LaTeX Warning: Citation 'BTK' on page 38 undefined on input line 7.
 
 
-LaTeX Warning: Citation 'bernevig_hughes_2013' on page 37 undefined on input li
+LaTeX Warning: Citation 'bernevig_hughes_2013' on page 38 undefined on input li
 ne 7.
 
-[37]
+[38]
 Package epstopdf Info: Source file: <Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)                    date: 2021-05-08 10:17:47
 (epstopdf)                    size: 500079 bytes
@@ -2029,7 +2033,7 @@ erted-to.pdf>
 Diagram-eps-converted-to.pdf Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=757, 489.83pt x 431
+<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=771, 489.83pt x 431
 .6125pt>
 File: Appendices/Figures/AndreevDiagram-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2042,7 +2046,7 @@ Overfull \hbox (61.51743pt too wide) detected at line 52
 \OT1/cmr/m/n/12 Figure A.1: []
  []
 
-[38]
+[39]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ac' on input line 56.
@@ -2057,15 +2061,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--65
 
  []
 
-[39] [40 <./Appendices/Figures/AndreevDiagram-eps-converted-to.pdf>] [41]
+[40] [41 <./Appendices/Figures/AndreevDiagram-eps-converted-to.pdf>] [42]
 
-LaTeX Warning: Citation 'Daghero2010' on page 42 undefined on input line 134.
-
-
-LaTeX Warning: Citation 'Kashiwaya2000' on page 42 undefined on input line 134.
+LaTeX Warning: Citation 'Daghero2010' on page 43 undefined on input line 134.
 
 
-[42]
+LaTeX Warning: Citation 'Kashiwaya2000' on page 43 undefined on input line 134.
+
+
+[43]
 Package epstopdf Info: Source file: <Appendices/Figures/BTKCalculations.eps>
 (epstopdf)                    date: 2021-05-08 10:17:47
 (epstopdf)                    size: 649670 bytes
@@ -2077,7 +2081,7 @@ verted-to.pdf>
 ulations-eps-converted-to.pdf Appendices/Figures/BTKCalculations.eps>
 (epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=820, 469.755pt x 5
+<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=834, 469.755pt x 5
 28.97626pt>
 File: Appendices/Figures/BTKCalculations-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -2100,24 +2104,24 @@ Overfull \hbox (26.62497pt too wide) in paragraph at lines 156--168
 convolve(vector1,vector2).
  []
 
-[43] [44 <./Appendices/Figures/BTKCalculations-eps-converted-to.pdf>])
+[44] [45 <./Appendices/Figures/BTKCalculations-eps-converted-to.pdf>])
 Overfull \hbox (0.24886pt too wide) in paragraph at lines 177--203
 []\OT1/cmr/m/n/12 Algorithm 4 is an-other sim-ple func-tion to ei-ther fit the 
 temperature-dependence
  []
 
-[45] [46]
+[46] [47]
 APPENDIX B.
 (./Appendices/Circuit.tex
 
-LaTeX Warning: Citation 'Berthod2011' on page 47 undefined on input line 6.
+LaTeX Warning: Citation 'Berthod2011' on page 48 undefined on input line 6.
 
 
 Overfull \hbox (22.07002pt too wide) detected at line 9
 []
  []
 
-[47
+[48
 
 ]
 Overfull \hbox (2.603pt too wide) in paragraph at lines 18--19
@@ -2125,10 +2129,10 @@ Overfull \hbox (2.603pt too wide) in paragraph at lines 18--19
 s to mea-sure the current-
  []
 
-[48]
+[49]
 Package acronym Info: Label `acro:LIA' newly defined as it shall be overridden
 although it is yet undefined on input line 22.
- [49]
+ [50]
 Package epstopdf Info: Source file: <Appendices/Figures/Circuit.eps>
 (epstopdf)                    date: 2021-05-08 10:17:47
 (epstopdf)                    size: 282772 bytes
@@ -2140,7 +2144,7 @@ o.pdf>
 -eps-converted-to.pdf Appendices/Figures/Circuit.eps>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/Circuit-eps-converted-to.pdf, id=918, 470.75874pt x 436.631
+<Appendices/Figures/Circuit-eps-converted-to.pdf, id=932, 470.75874pt x 436.631
 26pt>
 File: Appendices/Figures/Circuit-eps-converted-to.pdf Graphic file (type pdf)
 <use Appendices/Figures/Circuit-eps-converted-to.pdf>
@@ -2157,15 +2161,15 @@ Overfull \hbox (61.02994pt too wide) detected at line 29
 \OT1/cmr/m/n/12 Figure B.1: []
  []
 
-[50] [51 <./Appendices/Figures/Circuit-eps-converted-to.pdf>]
+[51] [52 <./Appendices/Figures/Circuit-eps-converted-to.pdf>]
 
-LaTeX Warning: Citation 'Kuphaldt2015' on page 52 undefined on input line 42.
+LaTeX Warning: Citation 'Kuphaldt2015' on page 53 undefined on input line 42.
 
-) [52]
+) [53]
 
 LaTeX Warning: Empty bibliography on input line 215.
 
-[53
+[54
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
@@ -2194,10 +2198,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
  ) 
 Here is how much of TeX's memory you used:
- 28673 strings out of 482687
- 541745 string characters out of 5951876
- 1338370 words of memory out of 5000000
- 43256 multiletter control sequences out of 15000+600000
+ 28692 strings out of 482687
+ 542144 string characters out of 5951876
+ 1340656 words of memory out of 5000000
+ 43272 multiletter control sequences out of 15000+600000
  548890 words of font info for 82 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  68i,20n,83p,2284b,1362s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2220,10 +2224,10 @@ xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on thesis.pdf (67 pages, 4021964 bytes).
+Output written on thesis.pdf (68 pages, 4024452 bytes).
 PDF statistics:
- 1070 PDF objects out of 1200 (max. 8388607)
- 843 compressed objects within 9 object streams
- 179 named destinations out of 1000 (max. 500000)
+ 1086 PDF objects out of 1200 (max. 8388607)
+ 858 compressed objects within 9 object streams
+ 182 named destinations out of 1000 (max. 500000)
  462 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -48,7 +48,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Introduction}{14}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Results and Discussion}{19}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Results and Discussion}{18}{section.3.2}%
 \defcounter {refsection}{0}\relax 
 \hbox { }
 \defcounter {refsection}{0}\relax 
@@ -62,7 +62,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Magnetic Field Dependence}{29}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Conclusion}{30}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Conclusion}{32}{section.4.4}%
 \defcounter {refsection}{0}\relax 
 \hbox { }
 \defcounter {refsection}{0}\relax 

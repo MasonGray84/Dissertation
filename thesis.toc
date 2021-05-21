@@ -32,7 +32,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Introduction}{2}{section.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Materials Characterization}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Materials Characterization}{3}{section.2.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Sample Fabrication}{6}{section.2.3}%
 \defcounter {refsection}{0}\relax 
@@ -62,7 +62,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Magnetic Field Dependence}{29}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Conclusion}{31}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Conclusion}{30}{section.4.4}%
 \defcounter {refsection}{0}\relax 
 \hbox { }
 \defcounter {refsection}{0}\relax 
@@ -72,26 +72,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.1}Summary}{33}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Future Work}{34}{section.5.2}%
+\contentsline {section}{\numberline {5.2}Future Work}{35}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Fe-based topological superconductivity}{34}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.1}FeTeSe}{35}{subsection.5.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{APPENDICES}{36}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Fe-Based Superconductivity}{36}{subsection.5.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}BTK Theory}{37}{section.A.1}%
+\contentsline {chapter}{APPENDICES}{38}{section*.23}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.1}The \ac {BdG} Formalism}{38}{subsection.A.1.1}%
+\contentsline {section}{\numberline {A.1}BTK Theory}{39}{section.A.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.2}The \ac {BTK} calculation}{40}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.1}The \ac {BdG} Formalism}{40}{subsection.A.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}Pseudo-Code for fitting spectra}{43}{section.A.2}%
+\contentsline {subsection}{\numberline {A.1.2}The \ac {BTK} calculation}{42}{subsection.A.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.1}Measuring differential conductance}{49}{section.B.1}%
+\contentsline {section}{\numberline {A.2}Pseudo-Code for fitting spectra}{45}{section.A.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.2}Circuit construction}{50}{section.B.2}%
+\contentsline {section}{\numberline {B.1}Measuring differential conductance}{51}{section.B.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {B.2.1}Circuit troubles and solutions}{51}{subsection.B.2.1}%
+\contentsline {section}{\numberline {B.2}Circuit construction}{52}{section.B.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.3}Three-point measurements}{53}{section.B.3}%
+\contentsline {subsection}{\numberline {B.2.1}Circuit troubles and solutions}{53}{subsection.B.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{BIBLIOGRAPHY}{54}{section.B.3}%
+\contentsline {section}{\numberline {B.3}Three-point measurements}{55}{section.B.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{BIBLIOGRAPHY}{56}{section.B.3}%

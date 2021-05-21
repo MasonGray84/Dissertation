@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  18 MAY 2021 14:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  21 MAY 2021 11:13
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1338,9 +1338,9 @@ Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 1.
 ) [5] (thesis.toc [6]
 Package acronym Info: Label `acro:BdG' newly defined as it shall be overridden
-although it is yet undefined on input line 83.
-Package acronym Info: Label `acro:BTK' newly defined as it shall be overridden
 although it is yet undefined on input line 85.
+Package acronym Info: Label `acro:BTK' newly defined as it shall be overridden
+although it is yet undefined on input line 87.
 )
 \tf@toc=\write8
 \openout8 = `thesis.toc'.
@@ -1359,12 +1359,12 @@ although it is yet undefined on input line 19.
 
  [10] (thesis.loa
 Overfull \hbox (236.30359pt too wide) in paragraph at lines 8--20
-[][][]\OT1/cmr/m/n/12 Single Gap [][] con-duc-tance[]44[][]BTK
+[][][]\OT1/cmr/m/n/12 Single Gap [][] con-duc-tance[]46[][]BTK
  []
 
 
 Overfull \hbox (144.10048pt too wide) in paragraph at lines 8--20
-\OT1/cmr/m/n/12 Fit[]46[][]BCS Gap[]46[][]BTK
+\OT1/cmr/m/n/12 Fit[]48[][]BCS Gap[]48[][]BTK
  []
 
 )
@@ -1384,9 +1384,10 @@ LaTeX Warning: Hyper reference `acro:AR' on page xii undefined on input line 1.
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.20 \acro{TI}[TI]{Topological Insulator}
-                                         ]pdfTeX warning (ext4): destination wi
-th the same identifier (name{PVD}) has been already used, duplicate ignored
+l.21 \acro{PVD}[PVD]{Physical Vapor Deposition}
+                                               ]pdfTeX warning (ext4): destinat
+ion with the same identifier (name{PVD}) has been already used, duplicate ignor
+ed
 <to be read again> 
                    \relax 
 l.21 \acro{PVD}[PVD]{Physical Vapor Deposition}
@@ -1403,306 +1404,305 @@ Package hyperref Warning: bookmark level for unknown chap defaults to 0.
 CHAPTER II.
 (Chap2/chap2.tex
 
-LaTeX Warning: Citation 'Chae2016' on page 2 undefined on input line 3.
+LaTeX Warning: Citation 'Chae2016' on page 2 undefined on input line 2.
 
 [2
 
 ]
-<Chap2/Figures/IntroductionFigure.png, id=514, 483.7272pt x 345.9324pt>
+<Chap2/Figures/IntroductionFigure.png, id=517, 483.7272pt x 345.9324pt>
 File: Chap2/Figures/IntroductionFigure.png Graphic file (type png)
 <use Chap2/Figures/IntroductionFigure.png>
 Package pdftex.def Info: Chap2/Figures/IntroductionFigure.png  used on input li
-ne 10.
+ne 9.
 (pdftex.def)             Requested size: 416.9982pt x 298.21393pt.
 
-Overfull \hbox (58.58412pt too wide) detected at line 11
+Overfull \hbox (58.58412pt too wide) detected at line 10
 \OT1/cmr/m/n/12 Figure 2.1: []
  []
 
 [3] [4 <./Chap2/Figures/IntroductionFigure.png>]
 
-LaTeX Warning: Citation 'Ferrari:2013jx' on page 5 undefined on input line 18.
+LaTeX Warning: Citation 'Ferrari:2013jx' on page 5 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Shahil:2010fg' on page 5 undefined on input line 18.
+LaTeX Warning: Citation 'Shahil:2010fg' on page 5 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Zhou2018' on page 5 undefined on input line 18.
+LaTeX Warning: Citation 'Zhou2018' on page 5 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'lei2019high' on page 5 undefined on input line 18.
+LaTeX Warning: Citation 'lei2019high' on page 5 undefined on input line 17.
 
 
 LaTeX Warning: Citation 'PhysRevB.82.064503' on page 5 undefined on input line 
-18.
+17.
 
 
-LaTeX Warning: Citation 'BTSAPLlocal2016' on page 5 undefined on input line 18.
-
-
-
-LaTeX Warning: Citation 'wu2018raman' on page 5 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'YHlee2017review' on page 5 undefined on input line 18.
+LaTeX Warning: Citation 'BTSAPLlocal2016' on page 5 undefined on input line 17.
 
 
 
-LaTeX Warning: Citation 'yin2011single' on page 5 undefined on input line 18.
+LaTeX Warning: Citation 'wu2018raman' on page 5 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Butler:2013ha' on page 5 undefined on input line 18.
+LaTeX Warning: Citation 'YHlee2017review' on page 5 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Lui2009' on page 5 undefined on input line 18.
+
+LaTeX Warning: Citation 'yin2011single' on page 5 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Mak2013' on page 5 undefined on input line 18.
+LaTeX Warning: Citation 'Butler:2013ha' on page 5 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Ross2013' on page 5 undefined on input line 18.
+LaTeX Warning: Citation 'Lui2009' on page 5 undefined on input line 17.
 
 
-Overfull \hbox (8.60245pt too wide) in paragraph at lines 18--19
+LaTeX Warning: Citation 'Mak2013' on page 5 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'Ross2013' on page 5 undefined on input line 17.
+
+
+Overfull \hbox (8.60245pt too wide) in paragraph at lines 17--18
 \OT1/cmr/m/n/12 sym-me-try, and clean-li-ness of samples.[[], [], [],
  []
 
 [5]
-<Chap2/Figures/CharacterizationFigure.png, id=535, 257.2812pt x 266.9172pt>
+<Chap2/Figures/CharacterizationFigure.png, id=538, 257.2812pt x 266.9172pt>
 File: Chap2/Figures/CharacterizationFigure.png Graphic file (type png)
 <use Chap2/Figures/CharacterizationFigure.png>
 Package pdftex.def Info: Chap2/Figures/CharacterizationFigure.png  used on inpu
-t line 23.
+t line 22.
 (pdftex.def)             Requested size: 252.94498pt x 262.43236pt.
 
-Overfull \hbox (58.58412pt too wide) detected at line 24
+Overfull \hbox (58.58412pt too wide) detected at line 23
 \OT1/cmr/m/n/12 Figure 2.2: []
  []
 
 
-LaTeX Warning: Citation 'Dean:2012ht' on page 6 undefined on input line 29.
+LaTeX Warning: Citation 'Dean:2012ht' on page 6 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'Sharpe2019' on page 6 undefined on input line 29.
+LaTeX Warning: Citation 'Sharpe2019' on page 6 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'Wu2018WTe2' on page 6 undefined on input line 29.
+LaTeX Warning: Citation 'Wu2018WTe2' on page 6 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'stepanov2018long' on page 6 undefined on input line 29
+LaTeX Warning: Citation 'stepanov2018long' on page 6 undefined on input line 28
 .
 
 
-LaTeX Warning: Citation 'Tang2017WTe2' on page 6 undefined on input line 29.
+LaTeX Warning: Citation 'Tang2017WTe2' on page 6 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'Zareapour:2012ja' on page 6 undefined on input line 29
+LaTeX Warning: Citation 'Zareapour:2012ja' on page 6 undefined on input line 28
 .
 
 
-LaTeX Warning: Citation 'Island2019' on page 6 undefined on input line 29.
+LaTeX Warning: Citation 'Island2019' on page 6 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'Chae2016' on page 6 undefined on input line 29.
+LaTeX Warning: Citation 'Chae2016' on page 6 undefined on input line 28.
 
 
 LaTeX Warning: Citation 'Brotons-Gisbert2019' on page 6 undefined on input line
- 29.
+ 28.
 
 
-LaTeX Warning: Citation 'Gray2019' on page 6 undefined on input line 29.
+LaTeX Warning: Citation 'Gray2019' on page 6 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'KUMAR2020112123' on page 6 undefined on input line 29.
+LaTeX Warning: Citation 'KUMAR2020112123' on page 6 undefined on input line 28.
 
 
 [6] [7 <./Chap2/Figures/CharacterizationFigure.png>] [8]
-<Chap2/Figures/FabricationFigure.png, id=553, 483.2454pt x 323.7696pt>
+<Chap2/Figures/FabricationFigure.png, id=556, 483.2454pt x 323.7696pt>
 File: Chap2/Figures/FabricationFigure.png Graphic file (type png)
 <use Chap2/Figures/FabricationFigure.png>
 Package pdftex.def Info: Chap2/Figures/FabricationFigure.png  used on input lin
-e 38.
+e 37.
 (pdftex.def)             Requested size: 416.9982pt x 279.39485pt.
 
-Overfull \hbox (58.58412pt too wide) detected at line 39
+Overfull \hbox (58.58412pt too wide) detected at line 38
 \OT1/cmr/m/n/12 Figure 2.3: []
  []
 
 
 LaTeX Warning: Citation 'Damasco2019tunnel' on page 9 undefined on input line 4
-3.
+2.
+
+
+LaTeX Warning: Citation 'doi:10.1021/acsnano.6b04110' on page 9 undefined on in
+put line 44.
+
+
+LaTeX Warning: Citation 'KUMAR2020112123' on page 9 undefined on input line 44.
+
 
 [9] [10 <./Chap2/Figures/FabricationFigure.png>]
 
-LaTeX Warning: Citation 'doi:10.1021/acsnano.6b04110' on page 11 undefined on i
-nput line 45.
-
-
-LaTeX Warning: Citation 'KUMAR2020112123' on page 11 undefined on input line 45
-.
-
-
-LaTeX Warning: Citation 'Gerber2017FeSe' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Gerber2017FeSe' on page 11 undefined on input line 47.
 
 
 
-LaTeX Warning: Citation 'Wang2016' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Wang2016' on page 11 undefined on input line 47.
 
 
-LaTeX Warning: Citation 'Hellman2017Rev' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Hellman2017Rev' on page 11 undefined on input line 47.
 
 
 
-LaTeX Warning: Citation 'Sharpe2019' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Sharpe2019' on page 11 undefined on input line 47.
 
 
-LaTeX Warning: Citation 'Woods2014' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Woods2014' on page 11 undefined on input line 47.
 
 
 LaTeX Warning: Citation 'doi:10.1021/nl5006542' on page 11 undefined on input l
-ine 48.
+ine 47.
 
 
-LaTeX Warning: Citation 'Tran:2019aa' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Tran:2019aa' on page 11 undefined on input line 47.
 
 
-LaTeX Warning: Citation 'Jin:2019aa' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Jin:2019aa' on page 11 undefined on input line 47.
 
 
-LaTeX Warning: Citation 'Alexeev:2019aa' on page 11 undefined on input line 48.
-
-
-
-LaTeX Warning: Citation 'Yankowitz2019' on page 11 undefined on input line 48.
-
-
-LaTeX Warning: Citation 'Cao2018' on page 11 undefined on input line 48.
-
-
-LaTeX Warning: Citation 'Gerber2017FeSe' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Alexeev:2019aa' on page 11 undefined on input line 47.
 
 
 
-LaTeX Warning: Citation 'Wang2016' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Yankowitz2019' on page 11 undefined on input line 47.
 
 
-LaTeX Warning: Citation 'Yang2019' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Cao2018' on page 11 undefined on input line 47.
 
 
-LaTeX Warning: Citation 'Kawai2018' on page 11 undefined on input line 48.
+LaTeX Warning: Citation 'Gerber2017FeSe' on page 11 undefined on input line 47.
 
 
-Overfull \hbox (54.42787pt too wide) in paragraph at lines 48--49
+
+LaTeX Warning: Citation 'Wang2016' on page 11 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'Yang2019' on page 11 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'Kawai2018' on page 11 undefined on input line 47.
+
+
+Overfull \hbox (54.42787pt too wide) in paragraph at lines 47--48
 []\OT1/cmr/m/n/12 , [], [], [], [],
  []
 
 [11]
 
-LaTeX Warning: Citation 'Tian2016' on page 12 undefined on input line 50.
-
-[12]
-
-LaTeX Warning: Citation 'lei2019high' on page 13 undefined on input line 52.
+LaTeX Warning: Citation 'Tian2016' on page 12 undefined on input line 49.
 
 
-LaTeX Warning: Citation 'YaoCGT2Dmat' on page 13 undefined on input line 52.
+LaTeX Warning: Citation 'lei2019high' on page 12 undefined on input line 51.
 
 
-LaTeX Warning: Citation 'lei2019high' on page 13 undefined on input line 52.
+LaTeX Warning: Citation 'YaoCGT2Dmat' on page 12 undefined on input line 51.
 
-) [13]
+
+LaTeX Warning: Citation 'lei2019high' on page 12 undefined on input line 51.
+
+[12]) [13]
 CHAPTER III.
 (Chap3/chap3.tex
 
-LaTeX Warning: Citation 'Balents2010' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Balents2010' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Armitage2017' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Armitage2017' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Zhang2019' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Zhang2019' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Nayak2008' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Nayak2008' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Schindler2018' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Schindler2018' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Ni2018' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Ni2018' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Xue2019' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Xue2019' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Song2017' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Song2017' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Langbehn2017' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Langbehn2017' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Benalcazar2017' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Benalcazar2017' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Wang2018Corner' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Wang2018Corner' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'DasSarma2018' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'DasSarma2018' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Zhongbo2018' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Zhongbo2018' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Ghorashi2019' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Ghorashi2019' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Zareapour2012' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Zareapour2012' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Albrecht2016' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Albrecht2016' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Gazibegovic2017' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Gazibegovic2017' on page 14 undefined on input line 2.
 
 
 
-LaTeX Warning: Citation 'Kurter2018' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Kurter2018' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Tanaka2012' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Tanaka2012' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Zhang2018' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Zhang2018' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Wang2015' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Wang2015' on page 14 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'Wang2018' on page 14 undefined on input line 3.
+LaTeX Warning: Citation 'Wang2018' on page 14 undefined on input line 2.
 
-<Chap3/Figures/F1V1.png, id=580, 505.89pt x 415.3116pt>
+<Chap3/Figures/F1V1.png, id=583, 505.89pt x 415.3116pt>
 File: Chap3/Figures/F1V1.png Graphic file (type png)
 <use Chap3/Figures/F1V1.png>
-Package pdftex.def Info: Chap3/Figures/F1V1.png  used on input line 6.
+Package pdftex.def Info: Chap3/Figures/F1V1.png  used on input line 5.
 (pdftex.def)             Requested size: 416.9982pt x 342.34479pt.
 
-LaTeX Warning: Citation 'Wang2015' on page 14 undefined on input line 7.
+LaTeX Warning: Citation 'Wang2015' on page 14 undefined on input line 6.
 
 
-LaTeX Warning: Citation 'Wang2015' on page 14 undefined on input line 7.
+LaTeX Warning: Citation 'Wang2015' on page 14 undefined on input line 6.
 
 
-Overfull \hbox (58.58412pt too wide) detected at line 7
+Overfull \hbox (58.58412pt too wide) detected at line 6
 \OT1/cmr/m/n/12 Figure 3.1: []
  []
 
 
-Overfull \hbox (38.54434pt too wide) in paragraph at lines 3--10
+Overfull \hbox (38.54434pt too wide) in paragraph at lines 2--9
 \OT1/cmr/m/n/12 duc-tiv-ity into the TI via proximity[[], [], [],
  []
 
 
-Overfull \hbox (5.20114pt too wide) in paragraph at lines 3--10
+Overfull \hbox (5.20114pt too wide) in paragraph at lines 2--9
 []\OT1/cmr/m/n/12 , []]. How-ever, this method re-quires long co-her-ence lengt
 hs
  []
@@ -1711,330 +1711,324 @@ hs
 
 ]
 
-LaTeX Warning: Citation 'Liu2010' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Liu2010' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Homes2015' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Homes2015' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Hanaguri2010' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Hanaguri2010' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Miao2012' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Miao2012' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Okazaki2012' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Okazaki2012' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Zhang2018' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Zhang2018' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Kreisel2016' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Kreisel2016' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Chubukov2012' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Chubukov2012' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Hanaguri2010' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Hanaguri2010' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Miao2012' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Miao2012' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Zeng2010' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Zeng2010' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Michioka2010' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Michioka2010' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Serafin2010' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Serafin2010' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Bendele2010' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Bendele2010' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Kim2010' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Kim2010' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Okazaki2012' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Okazaki2012' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Wang2015' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Wang2015' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Chen178' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Chen178' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Zhang2018' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Zhang2018' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Wang2015' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Wang2015' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Zhang2018' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Zhang2018' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Zhang20192' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Zhang20192' on page 15 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'Wang2018' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Wang2018' on page 15 undefined on input line 13.
 
 
 LaTeX Warning: Citation 'Dong-LaiFeng2018' on page 15 undefined on input line 1
-4.
+3.
 
 
-LaTeX Warning: Citation 'Machida2018' on page 15 undefined on input line 14.
+LaTeX Warning: Citation 'Machida2018' on page 15 undefined on input line 13.
 
 
-Overfull \hbox (3.85349pt too wide) in paragraph at lines 14--15
+Overfull \hbox (3.85349pt too wide) in paragraph at lines 13--14
 \OT1/cmr/m/n/12 ranges from an an-ti-fer-ro-mag-net in FeTe to a bulk su-per-co
 n-duc-tor in FeSe[[]].
  []
 
 
-Overfull \hbox (47.78906pt too wide) in paragraph at lines 14--15
+Overfull \hbox (47.78906pt too wide) in paragraph at lines 13--14
 \OT1/cmr/m/n/12 FeTe$[]$Se$[]$ find no ev-i-dence for a node with strong sig-na
 -tures of s$[]$ order,[[],
  []
 
 
-Overfull \hbox (22.10692pt too wide) in paragraph at lines 14--15
+Overfull \hbox (22.10692pt too wide) in paragraph at lines 13--14
 []\OT1/cmr/m/n/12 , []] while ex-per-i-ments on other al-loys sug-gest nodal s$
 []$, anisotropic
  []
 
 
-Overfull \hbox (3.92944pt too wide) in paragraph at lines 14--15
+Overfull \hbox (3.92944pt too wide) in paragraph at lines 13--14
 \OT1/cmr/m/n/12 s-wave, and even p-wave[[], [], [], [],
  []
 
 [15] [16 <./Chap3/Figures/F1V1.png>]
 
-LaTeX Warning: Citation 'DasSarma2018' on page 17 undefined on input line 16.
+LaTeX Warning: Citation 'DasSarma2018' on page 17 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'DasSarma2018' on page 17 undefined on input line 16.
+LaTeX Warning: Citation 'DasSarma2018' on page 17 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'Deutscher2005' on page 17 undefined on input line 18.
+LaTeX Warning: Citation 'Deutscher2005' on page 17 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Tanaka2003' on page 17 undefined on input line 18.
+LaTeX Warning: Citation 'Tanaka2003' on page 17 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Sinha1998' on page 17 undefined on input line 18.
+LaTeX Warning: Citation 'Sinha1998' on page 17 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Greene1999' on page 17 undefined on input line 18.
+LaTeX Warning: Citation 'Greene1999' on page 17 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Tanaka2012' on page 17 undefined on input line 18.
+LaTeX Warning: Citation 'Tanaka2012' on page 17 undefined on input line 17.
 
 
 LaTeX Warning: Citation 'zhang2017quantum' on page 17 undefined on input line 1
-8.
+7.
 
 
-LaTeX Warning: Citation 'Setiawan2017' on page 17 undefined on input line 18.
+LaTeX Warning: Citation 'Setiawan2017' on page 17 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Park:2010wo' on page 17 undefined on input line 18.
+LaTeX Warning: Citation 'Park:2010wo' on page 17 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'Tanaka2012' on page 17 undefined on input line 18.
+LaTeX Warning: Citation 'Tanaka2012' on page 17 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'DasSarma2018' on page 17 undefined on input line 19.
+LaTeX Warning: Citation 'DasSarma2018' on page 17 undefined on input line 18.
 
 
-LaTeX Warning: Citation 'Kim2010' on page 17 undefined on input line 19.
+LaTeX Warning: Citation 'Kim2010' on page 17 undefined on input line 18.
 
 
-LaTeX Warning: Citation 'Bendele2010' on page 17 undefined on input line 19.
+LaTeX Warning: Citation 'Bendele2010' on page 17 undefined on input line 18.
 
 
-Overfull \hbox (83.58528pt too wide) in paragraph at lines 18--20
+Overfull \hbox (83.58528pt too wide) in paragraph at lines 17--19
 \OT1/cmr/m/n/12 nom-i-nally charge neu-tral, thus re-quir-ing an An-dreev pro-c
 ess to be observed[[]].
  []
 
 [17] [18]
-<Chap3/Figures/Figure2.png, id=608, 556.479pt x 387.3672pt>
+<Chap3/Figures/Figure2.png, id=611, 556.479pt x 387.3672pt>
 File: Chap3/Figures/Figure2.png Graphic file (type png)
 <use Chap3/Figures/Figure2.png>
-Package pdftex.def Info: Chap3/Figures/Figure2.png  used on input line 23.
+Package pdftex.def Info: Chap3/Figures/Figure2.png  used on input line 22.
 (pdftex.def)             Requested size: 416.9982pt x 290.27643pt.
 
-Overfull \hbox (58.58412pt too wide) detected at line 24
+Overfull \hbox (58.58412pt too wide) detected at line 23
 \OT1/cmr/m/n/12 Figure 3.2: []
  []
 
 
-LaTeX Warning: Citation 'Daghero2014' on page 19 undefined on input line 28.
+LaTeX Warning: Citation 'Daghero2014' on page 19 undefined on input line 27.
 
 
 LaTeX Warning: Citation '2004PhyC..408..618C' on page 19 undefined on input lin
-e 28.
+e 27.
 
 
 LaTeX Warning: Citation '2004PhRvB..69m2507S' on page 19 undefined on input lin
-e 28.
+e 27.
 
 
 LaTeX Warning: Citation '2004PhyC..408..618C' on page 19 undefined on input lin
-e 28.
+e 27.
 
 
-Overfull \hbox (76.21474pt too wide) in paragraph at lines 28--29
+Overfull \hbox (76.21474pt too wide) in paragraph at lines 27--28
 \OT1/cmr/m/n/12 with McMillan-Rowell Os-cil-la-tions (MRO)[[], []].
  []
 
 [19 <./Chap3/Figures/Figure2.png>]
 
-LaTeX Warning: Citation 'Deutscher2005' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Deutscher2005' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Sinha1998' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Sinha1998' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Greene1999' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Greene1999' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Yakovenko2002' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Yakovenko2002' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'TanakaTopSym2012' on page 20 undefined on input line 3
-0.
+LaTeX Warning: Citation 'TanakaTopSym2012' on page 20 undefined on input line 2
+9.
 
 
-LaTeX Warning: Citation 'Serafin2010' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Serafin2010' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Zeng2010' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Zeng2010' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Bendele2010' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Bendele2010' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Okazaki2012' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Okazaki2012' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Miao2012' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Miao2012' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Kim2010' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Kim2010' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Hanaguri2010' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Hanaguri2010' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Tanaka2003' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Tanaka2003' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Klapwijk1992' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Klapwijk1992' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Sasaki2000' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Sasaki2000' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Samokhin2001' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Samokhin2001' on page 20 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Naidyuk2018' on page 20 undefined on input line 30.
+LaTeX Warning: Citation 'Naidyuk2018' on page 20 undefined on input line 29.
 
 
-Overfull \hbox (15.45442pt too wide) in paragraph at lines 30--31
+Overfull \hbox (15.45442pt too wide) in paragraph at lines 29--30
 \OT1/cmr/m/n/12 Reflection(AR)[[]], Co-her-ent An-dreev Re-flec-tion (CAR)[[]],
 
  []
 
 
-Overfull \hbox (11.7553pt too wide) in paragraph at lines 30--31
+Overfull \hbox (11.7553pt too wide) in paragraph at lines 29--30
 \OT1/cmr/m/n/12 the Kondo Effect[[], []], and Joule heating[[]]. 
  []
 
 [20]
 
-LaTeX Warning: Citation 'Setiawan2017' on page 21 undefined on input line 32.
+LaTeX Warning: Citation 'Setiawan2017' on page 21 undefined on input line 31.
 
 
-LaTeX Warning: Citation 'BTK' on page 21 undefined on input line 32.
+LaTeX Warning: Citation 'BTK' on page 21 undefined on input line 31.
 
 
-LaTeX Warning: Citation 'Tanaka2012' on page 21 undefined on input line 32.
+LaTeX Warning: Citation 'Tanaka2012' on page 21 undefined on input line 31.
 
 
-LaTeX Warning: Citation 'Lofwander2001' on page 21 undefined on input line 32.
+LaTeX Warning: Citation 'Lofwander2001' on page 21 undefined on input line 31.
 
 [21]
 
-LaTeX Warning: Citation 'Zhang2018' on page 22 undefined on input line 34.
+LaTeX Warning: Citation 'Zhang2018' on page 22 undefined on input line 33.
 
 [22]
-<Chap3/Figures/Figure3.png, id=637, 550.2156pt x 193.6836pt>
+<Chap3/Figures/Figure3.png, id=640, 550.2156pt x 193.6836pt>
 File: Chap3/Figures/Figure3.png Graphic file (type png)
 <use Chap3/Figures/Figure3.png>
-Package pdftex.def Info: Chap3/Figures/Figure3.png  used on input line 38.
+Package pdftex.def Info: Chap3/Figures/Figure3.png  used on input line 37.
 (pdftex.def)             Requested size: 416.9982pt x 146.79616pt.
 
-Overfull \hbox (58.58412pt too wide) detected at line 39
+Overfull \hbox (58.58412pt too wide) detected at line 38
 \OT1/cmr/m/n/12 Figure 3.3: []
  []
 
 
-LaTeX Warning: Citation 'Zareapour2012' on page 23 undefined on input line 42.
+LaTeX Warning: Citation 'Zareapour2012' on page 23 undefined on input line 41.
 
 [23 <./Chap3/Figures/Figure3.png>] [24]
-<Chap3/Figures/Figure4.png, id=654, 572.3784pt x 192.72pt>
+<Chap3/Figures/Figure4.png, id=657, 572.3784pt x 192.72pt>
 File: Chap3/Figures/Figure4.png Graphic file (type png)
 <use Chap3/Figures/Figure4.png>
-Package pdftex.def Info: Chap3/Figures/Figure4.png  used on input line 48.
+Package pdftex.def Info: Chap3/Figures/Figure4.png  used on input line 47.
 (pdftex.def)             Requested size: 416.9982pt x 140.40211pt.
 
-Overfull \hbox (58.58412pt too wide) detected at line 49
+Overfull \hbox (58.58412pt too wide) detected at line 48
 \OT1/cmr/m/n/12 Figure 3.4: []
  []
 
 ) [25 <./Chap3/Figures/Figure4.png>] [26]
 CHAPTER IV.
 (Chap4/Chap4.tex
-Package acronym Info: Label `acro:hBN' newly defined as it shall be overridden
-although it is yet undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Gray2019' on page 27 undefined on input line 3.
-
-[27
-
-]
-Overfull \hbox (2.30629pt too wide) in paragraph at lines 5--5
+Overfull \hbox (2.30629pt too wide) in paragraph at lines 4--4
 []\OT1/cmr/bx/n/14.4 Observation of Bias-Independent Con-duc-tance Plateau 
  []
 
 Package acronym Info: Label `acro:BCS' newly defined as it shall be overridden
-although it is yet undefined on input line 6.
+although it is yet undefined on input line 5.
 Package acronym Info: Label `acro:PAR' newly defined as it shall be overridden
-although it is yet undefined on input line 6.
+although it is yet undefined on input line 5.
+[27
+
+]
 Package epstopdf Info: Source file: <Chap4/Figures/DeviceFab.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 283211 bytes
 (epstopdf)             Output file: <Chap4/Figures/DeviceFab-eps-converted-to.p
 df>
-(epstopdf)                    date: 2021-05-18 18:57:36
+(epstopdf)                    date: 2021-05-18 19:55:32
 (epstopdf)                    size: 62480 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Chap4/Figures/Device
 Fab-eps-converted-to.pdf Chap4/Figures/DeviceFab.eps>
-(epstopdf)             \includegraphics on input line 9.
+(epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=680, 469.755pt x 160.6pt>
+<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=681, 469.755pt x 160.6pt>
 File: Chap4/Figures/DeviceFab-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/DeviceFab-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/DeviceFab-eps-converted-to.pdf  used on 
-input line 9.
+input line 8.
 (pdftex.def)             Requested size: 416.9982pt x 142.56349pt.
 
-Overfull \hbox (58.58412pt too wide) detected at line 10
+Overfull \hbox (58.58412pt too wide) detected at line 9
 \OT1/cmr/m/n/12 Figure 4.1: []
  []
 
@@ -2046,18 +2040,18 @@ Package epstopdf Info: Source file: <Chap4/Figures/Temperature.eps>
 (epstopdf)                    size: 2523874 bytes
 (epstopdf)             Output file: <Chap4/Figures/Temperature-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2021-05-18 18:57:36
+(epstopdf)                    date: 2021-05-18 19:55:32
 (epstopdf)                    size: 563932 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Chap4/Figures/Temper
 ature-eps-converted-to.pdf Chap4/Figures/Temperature.eps>
-(epstopdf)             \includegraphics on input line 17.
+(epstopdf)             \includegraphics on input line 16.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/Temperature-eps-converted-to.pdf, id=685, 471.7625pt x 471.7625p
+<Chap4/Figures/Temperature-eps-converted-to.pdf, id=686, 471.7625pt x 471.7625p
 t>
 File: Chap4/Figures/Temperature-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/Temperature-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/Temperature-eps-converted-to.pdf  used o
-n input line 17.
+n input line 16.
 (pdftex.def)             Requested size: 416.9982pt x 417.00229pt.
 
 LaTeX Warning: Marginpar on page 28 moved.
@@ -2067,29 +2061,32 @@ LaTeX Warning: Marginpar on page 28 moved.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation 'zalic2019' on page 29 undefined on input line 23.
+LaTeX Warning: Citation 'zalic2019' on page 29 undefined on input line 22.
 
 Package epstopdf Info: Source file: <Chap4/Figures/MagneticField.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 204127 bytes
 (epstopdf)             Output file: <Chap4/Figures/MagneticField-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2021-05-18 18:57:36
+(epstopdf)                    date: 2021-05-18 19:55:32
 (epstopdf)                    size: 60828 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Chap4/Figures/Magnet
 icField-eps-converted-to.pdf Chap4/Figures/MagneticField.eps>
-(epstopdf)             \includegraphics on input line 26.
+(epstopdf)             \includegraphics on input line 25.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=698, 470.75874pt x 483.80
+<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=699, 470.75874pt x 483.80
 75pt>
 File: Chap4/Figures/MagneticField-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/MagneticField-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/MagneticField-eps-converted-to.pdf  used
- on input line 26.
+ on input line 25.
 (pdftex.def)             Requested size: 416.9982pt x 428.55719pt.
 [29 <./Chap4/Figures/DeviceFab-eps-converted-to.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `chap:chap3' on page 30 undefined on input line 30.
 
 ) [30 <./Chap4/Figures/Temperature-eps-converted-to.pdf>] [31] [32 <./Chap4/Fig
 ures/MagneticField-eps-converted-to.pdf>]
@@ -2099,12 +2096,24 @@ CHAPTER V.
 ]
 Package acronym Info: Label `acro:TI' newly defined as it shall be overridden
 although it is yet undefined on input line 4.
+Package acronym Info: Label `acro:DoS' newly defined as it shall be overridden
+although it is yet undefined on input line 4.
+ [34]
+
+LaTeX Warning: Citation 'Osterhoudt2019' on page 35 undefined on input line 10.
 
 
-LaTeX Warning: Citation 'Osterhoudt2019' on page 34 undefined on input line 11.
+[35] [36]
+
+LaTeX Warning: Citation 'Nag2016' on page 37 undefined on input line 16.
 
 
-) [34] [35] [36
+LaTeX Warning: Citation 'Zhang2019_2' on page 37 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'Tapp2008' on page 37 undefined on input line 16.
+
+) [37] [38
 
 ]
 APPENDIX A.
@@ -2112,12 +2121,12 @@ Package hyperref Info: bookmark level for unknown appendix defaults to 0 on inp
 ut line 200.
 (Appendices/ARFit.tex
 
-LaTeX Warning: Citation 'Andreev1964' on page 37 undefined on input line 4.
+LaTeX Warning: Citation 'Andreev1964' on page 39 undefined on input line 4.
 
 
-LaTeX Warning: Citation 'BTK' on page 37 undefined on input line 4.
+LaTeX Warning: Citation 'BTK' on page 39 undefined on input line 4.
 
-[37
+[39
 
 ]
 
@@ -2125,25 +2134,25 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ac' on input line 6.
 
 
-LaTeX Warning: Citation 'BTK' on page 38 undefined on input line 7.
+LaTeX Warning: Citation 'BTK' on page 40 undefined on input line 7.
 
 
-LaTeX Warning: Citation 'bernevig_hughes_2013' on page 38 undefined on input li
+LaTeX Warning: Citation 'bernevig_hughes_2013' on page 40 undefined on input li
 ne 7.
 
-[38]
+[40]
 Package epstopdf Info: Source file: <Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 507455 bytes
 (epstopdf)             Output file: <Appendices/Figures/AndreevDiagram-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2021-05-18 18:57:36
+(epstopdf)                    date: 2021-05-18 19:55:32
 (epstopdf)                    size: 347408 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Appendices/Figures/A
 ndreevDiagram-eps-converted-to.pdf Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=771, 489.83pt x 431
+<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=797, 489.83pt x 431
 .6125pt>
 File: Appendices/Figures/AndreevDiagram-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2156,7 +2165,7 @@ Overfull \hbox (61.51743pt too wide) detected at line 52
 \OT1/cmr/m/n/12 Figure A.1: []
  []
 
-[39]
+[41]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ac' on input line 56.
@@ -2171,27 +2180,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--65
 
  []
 
-[40] [41 <./Appendices/Figures/AndreevDiagram-eps-converted-to.pdf>] [42]
+[42] [43 <./Appendices/Figures/AndreevDiagram-eps-converted-to.pdf>] [44]
 
-LaTeX Warning: Citation 'Daghero2010' on page 43 undefined on input line 134.
-
-
-LaTeX Warning: Citation 'Kashiwaya2000' on page 43 undefined on input line 134.
+LaTeX Warning: Citation 'Daghero2010' on page 45 undefined on input line 134.
 
 
-[43]
+LaTeX Warning: Citation 'Kashiwaya2000' on page 45 undefined on input line 134.
+
+
+[45]
 Package epstopdf Info: Source file: <Appendices/Figures/BTKCalculations.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 659956 bytes
 (epstopdf)             Output file: <Appendices/Figures/BTKCalculations-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2021-05-18 18:57:36
+(epstopdf)                    date: 2021-05-18 19:55:32
 (epstopdf)                    size: 254600 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Appendices/Figures/B
 TKCalculations-eps-converted-to.pdf Appendices/Figures/BTKCalculations.eps>
 (epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=833, 469.755pt x 5
+<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=859, 469.755pt x 5
 28.97626pt>
 File: Appendices/Figures/BTKCalculations-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -2206,32 +2215,30 @@ Overfull \hbox (61.51743pt too wide) detected at line 139
 
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 143.
-Package acronym Info: Label `acro:DoS' newly defined as it shall be overridden
-although it is yet undefined on input line 146.
 
 Overfull \hbox (26.62497pt too wide) in paragraph at lines 156--168
 \OT1/cmr/m/n/12 skip the for-loop by im-ple-ment-ing the numpy func-tion numpy.
 convolve(vector1,vector2).
  []
 
-[44] [45 <./Appendices/Figures/BTKCalculations-eps-converted-to.pdf>])
+[46] [47 <./Appendices/Figures/BTKCalculations-eps-converted-to.pdf>])
 Overfull \hbox (0.24886pt too wide) in paragraph at lines 177--203
 []\OT1/cmr/m/n/12 Algorithm 4 is an-other sim-ple func-tion to ei-ther fit the 
 temperature-dependence
  []
 
-[46] [47]
+[48] [49]
 APPENDIX B.
 (Appendices/Circuit.tex
 
-LaTeX Warning: Citation 'Berthod2011' on page 48 undefined on input line 6.
+LaTeX Warning: Citation 'Berthod2011' on page 50 undefined on input line 6.
 
 
 Overfull \hbox (22.07002pt too wide) detected at line 9
 []
  []
 
-[48
+[50
 
 ]
 Overfull \hbox (2.603pt too wide) in paragraph at lines 18--19
@@ -2239,22 +2246,22 @@ Overfull \hbox (2.603pt too wide) in paragraph at lines 18--19
 s to mea-sure the current-
  []
 
-[49]
+[51]
 Package acronym Info: Label `acro:LIA' newly defined as it shall be overridden
 although it is yet undefined on input line 22.
- [50]
+ [52]
 Package epstopdf Info: Source file: <Appendices/Figures/Circuit.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 287519 bytes
 (epstopdf)             Output file: <Appendices/Figures/Circuit-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2021-05-18 18:57:36
+(epstopdf)                    date: 2021-05-18 19:55:32
 (epstopdf)                    size: 117451 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Appendices/Figures/C
 ircuit-eps-converted-to.pdf Appendices/Figures/Circuit.eps>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/Circuit-eps-converted-to.pdf, id=931, 470.75874pt x 436.631
+<Appendices/Figures/Circuit-eps-converted-to.pdf, id=957, 470.75874pt x 436.631
 26pt>
 File: Appendices/Figures/Circuit-eps-converted-to.pdf Graphic file (type pdf)
 <use Appendices/Figures/Circuit-eps-converted-to.pdf>
@@ -2271,15 +2278,15 @@ Overfull \hbox (61.02994pt too wide) detected at line 29
 \OT1/cmr/m/n/12 Figure B.1: []
  []
 
-[51] [52 <./Appendices/Figures/Circuit-eps-converted-to.pdf>]
+[53] [54 <./Appendices/Figures/Circuit-eps-converted-to.pdf>]
 
-LaTeX Warning: Citation 'Kuphaldt2015' on page 53 undefined on input line 42.
+LaTeX Warning: Citation 'Kuphaldt2015' on page 55 undefined on input line 42.
 
-) [53]
+) [55]
 
 LaTeX Warning: Empty bibliography on input line 215.
 
-[54
+[56
 
 ] (thesis.aux)
 
@@ -2290,7 +2297,7 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: EB03217495A18C64ACEFD0B8F1F8872E;5652.
+(rerunfilecheck)             Checksum: 2803BF335E674A9AC9513528214BB5BC;5651.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                thesis
@@ -2302,12 +2309,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  31368 strings out of 479321
- 587516 string characters out of 2856583
- 1449906 words of memory out of 3000000
- 48015 multiletter control sequences out of 15000+600000
+ 587524 string characters out of 2856583
+ 1449900 words of memory out of 3000000
+ 48014 multiletter control sequences out of 15000+600000
  417232 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,20n,116p,2286b,1378s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 113i,20n,116p,2286b,1376s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Mason\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -2331,9 +2338,9 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/User
 s/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam1
 0.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /symbols/msbm10.pfb>
-Output written on thesis.pdf (68 pages, 4139872 bytes).
+Output written on thesis.pdf (70 pages, 4149033 bytes).
 PDF statistics:
- 1082 PDF objects out of 1200 (max. 8388607)
- 183 named destinations out of 1000 (max. 500000)
- 462 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1108 PDF objects out of 1200 (max. 8388607)
+ 184 named destinations out of 1000 (max. 500000)
+ 470 words of extra memory for PDF output out of 10000 (max. 10000000)
 

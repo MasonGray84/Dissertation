@@ -3,7 +3,7 @@ As mentioned in the main text, \acl{AR} is the process by which an electron is r
 \section{BTK Theory}
 In 1964, Alexander F. Andreev published a paper describing a process by which an electron incident upon a superconductor forms a cooper pair in the superconductor and retro-reflects a hole\cite{Andreev1964}. This phenomena was originally used to describe the thermal conductivity properties observed in superconductors in the intermediate state where there are many normal sections in direct contact with superconducting sections. It wasn't until 1982 that Blonder, Tinkham, and Klapwijk gave a complete discussion of the phenomena including the effect of the barrier magnitude, a model for the excess current, and predictions for the differential conductance of such a junctions\cite{BTK}.\par
 
-\subsection{The \ac{BdG} Formalism}
+\subsection{The BdG Formalism}
 The key innovation in the \ac{BTK} model is the use of the \ac{BdG} equations to match the wavefunctions of the quasi-particles excitations at the interface\cite{BTK}. Here I will closely follow the explanation of the \ac{BdG} equations shown in Chapter 14 of "Topological Insulators and Topological Superconductivity" by Bernevig and Hughes\cite{bernevig_hughes_2013}. First we start with the Hamiltonian for a single-particle in a simple metal.
 \begin{align}
     H = \left(\frac{p^{2}}{2m}-\mu\right)I_{2\times2}
@@ -167,8 +167,8 @@ If we want to incorporate the temperature in a more rigorous way we can take the
 \end{algorithm}
 I've used an anonymous function since these codes were originally written in MatLab however the same task can be accomplished in Python with a lambda function instead. Alternatively, one could also skip the for-loop by implementing the numpy function numpy.convolve(vector1,vector2). Algorithm 3 is a simple extension that allows us to model the conductance with two superconducting gaps.\par
 \begin{algorithm}
-\caption{Two Gap BTK Fit}{BTK\_2Gap}
-\begin{algorithmic}
+\caption{Two Gap BTK Fit}
+\begin{algorithmic}[1]
 \State $G_{1},\tau_{1} = BTK\_at\_finite\_temperature(meV,Z_{1},\Delta_{SC,1},\Gamma_{1})$
 \State $G_{2},\tau_{2} = BTK\_at\_finite\_temperature(meV,Z_{2},\Delta_{SC,2},\Gamma_{2})$
 \State $G = w*G_{1} + (w-1)*G_{2}$\Comment{$w$ ranges between 0 and 1.}

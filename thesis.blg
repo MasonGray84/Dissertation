@@ -1,17 +1,18 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'thesis.blg'
-[178] biber-MSWIN64:340> INFO - === 
-[243] Biber.pm:415> INFO - Reading 'thesis.bcf'
-[471] Biber.pm:952> INFO - Found 107 citekeys in bib section 0
-[495] Biber.pm:4340> INFO - Processing section 0
-[515] Biber.pm:4531> INFO - Looking for bibtex format file 'References.bib' for section 0
-[603] bibtex.pm:1689> INFO - LaTeX decoding ...
-[876] bibtex.pm:1494> INFO - Found BibTeX data source 'References.bib'
-[2606] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\Mason\AppData\Local\Temp\biber_tmp_fjEB\2c752702d164267d08a8792d4ccaec82_42416.utf8, line 1102, warning: 13 characters of junk seen at toplevel
-[2777] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2777] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2777] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[2777] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[2920] bbl.pm:654> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[3128] bbl.pm:757> INFO - Output to thesis.bbl
-[3129] Biber.pm:128> INFO - WARNINGS: 1
+[268] biber-MSWIN64:340> INFO - === 
+[369] Biber.pm:415> INFO - Reading 'thesis.bcf'
+[551] Biber.pm:952> INFO - Found 108 citekeys in bib section 0
+[576] Biber.pm:4340> INFO - Processing section 0
+[610] Biber.pm:4531> INFO - Looking for bibtex format file 'References.bib' for section 0
+[706] bibtex.pm:1689> INFO - LaTeX decoding ...
+[978] bibtex.pm:1494> INFO - Found BibTeX data source 'References.bib'
+[1059] Utils.pm:395> WARN - legacy month field 'Nov' in entry 'Kivelson2016' is not an integer - this will probably not sort properly.
+[2716] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\Mason\AppData\Local\Temp\biber_tmp_54ZU\2c752702d164267d08a8792d4ccaec82_4012.utf8, line 1133, warning: 13 characters of junk seen at toplevel
+[2888] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2888] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2888] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[2888] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[3061] bbl.pm:654> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[3264] bbl.pm:757> INFO - Output to thesis.bbl
+[3265] Biber.pm:128> INFO - WARNINGS: 2

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  26 MAY 2021 14:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  26 MAY 2021 15:06
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1356,30 +1356,14 @@ although it is yet undefined on input line 21.
 \tf@lof=\write9
 \openout9 = `thesis.lof'.
 
- [10] (thesis.loa
-Overfull \hbox (236.30359pt too wide) in paragraph at lines 8--20
-[][][]\OT1/cmr/m/n/12 Single Gap [][] con-duc-tance[]51[][]BTK
- []
+ [10] (abbr.tex
+
+LaTeX Warning: Hyper reference `acro:AR' on page xi undefined on input line 1.
 
 
-Overfull \hbox (144.10048pt too wide) in paragraph at lines 8--20
-\OT1/cmr/m/n/12 Fit[]53[][]BCS Gap[]53[][]BTK
- []
+LaTeX Warning: Hyper reference `acro:AR' on page xi undefined on input line 1.
 
-)
-\tf@loa=\write10
-\openout10 = `thesis.loa'.
-
- [11] (abbr.tex
-
-LaTeX Warning: Hyper reference `acro:AR' on page xii undefined on input line 1.
-
-
-
-LaTeX Warning: Hyper reference `acro:AR' on page xii undefined on input line 1.
-
-
-[12pdfTeX warning (ext4): destination with the same identifier (name{ARPES}) ha
+[11pdfTeX warning (ext4): destination with the same identifier (name{ARPES}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
@@ -1390,7 +1374,7 @@ ed
 <to be read again> 
                    \relax 
 l.21 \acro{PVD}[PVD]{Physical Vapor Deposition}
-                                               ) [13]
+                                               ) [12]
 CHAPTER I.
 
 Package hyperref Warning: bookmark level for unknown chap defaults to 0.
@@ -1424,7 +1408,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./Intro/Figures/PWave_SC-eps-converted-to.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Intro/Figures/PWave_SC-eps-converted-to.pdf, id=540, 513.92pt x 224.84pt>
+<Intro/Figures/PWave_SC-eps-converted-to.pdf, id=519, 513.92pt x 224.84pt>
 File: Intro/Figures/PWave_SC-eps-converted-to.pdf Graphic file (type pdf)
 <use Intro/Figures/PWave_SC-eps-converted-to.pdf>
 Package pdftex.def Info: Intro/Figures/PWave_SC-eps-converted-to.pdf  used on i
@@ -1440,7 +1424,7 @@ CHAPTER II.
 (Chap2/chap2.tex [7
 
 ]
-<Chap2/Figures/IntroductionFigure.png, id=582, 483.7272pt x 345.9324pt>
+<Chap2/Figures/IntroductionFigure.png, id=561, 483.7272pt x 345.9324pt>
 File: Chap2/Figures/IntroductionFigure.png Graphic file (type png)
 <use Chap2/Figures/IntroductionFigure.png>
 Package pdftex.def Info: Chap2/Figures/IntroductionFigure.png  used on input li
@@ -1452,7 +1436,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 10
  []
 
 [8] [9 <./Chap2/Figures/IntroductionFigure.png>] [10]
-<Chap2/Figures/CharacterizationFigure.png, id=615, 257.2812pt x 266.9172pt>
+<Chap2/Figures/CharacterizationFigure.png, id=594, 257.2812pt x 266.9172pt>
 File: Chap2/Figures/CharacterizationFigure.png Graphic file (type png)
 <use Chap2/Figures/CharacterizationFigure.png>
 Package pdftex.def Info: Chap2/Figures/CharacterizationFigure.png  used on inpu
@@ -1464,7 +1448,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 23
  []
 
 [11] [12 <./Chap2/Figures/CharacterizationFigure.png>] [13]
-<Chap2/Figures/FabricationFigure.png, id=648, 483.2454pt x 323.7696pt>
+<Chap2/Figures/FabricationFigure.png, id=627, 483.2454pt x 323.7696pt>
 File: Chap2/Figures/FabricationFigure.png Graphic file (type png)
 <use Chap2/Figures/FabricationFigure.png>
 Package pdftex.def Info: Chap2/Figures/FabricationFigure.png  used on input lin
@@ -1478,7 +1462,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 38
 [14] [15 <./Chap2/Figures/FabricationFigure.png>] [16] [17]) [18]
 CHAPTER III.
 (Chap3/chap3.tex
-<Chap3/Figures/F1V1.png, id=716, 505.89pt x 415.3116pt>
+<Chap3/Figures/F1V1.png, id=695, 505.89pt x 415.3116pt>
 File: Chap3/Figures/F1V1.png Graphic file (type png)
 <use Chap3/Figures/F1V1.png>
 Package pdftex.def Info: Chap3/Figures/F1V1.png  used on input line 5.
@@ -1491,7 +1475,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 6
 [19
 
 ] [20] [21 <./Chap3/Figures/F1V1.png>] [22]
-<Chap3/Figures/Figure2.png, id=808, 556.479pt x 387.3672pt>
+<Chap3/Figures/Figure2.png, id=787, 556.479pt x 387.3672pt>
 File: Chap3/Figures/Figure2.png Graphic file (type png)
 <use Chap3/Figures/Figure2.png>
 Package pdftex.def Info: Chap3/Figures/Figure2.png  used on input line 22.
@@ -1502,7 +1486,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 23
  []
 
 [23] [24 <./Chap3/Figures/Figure2.png>] [25] [26]
-<Chap3/Figures/Figure3.png, id=874, 550.2156pt x 193.6836pt>
+<Chap3/Figures/Figure3.png, id=853, 550.2156pt x 193.6836pt>
 File: Chap3/Figures/Figure3.png Graphic file (type png)
 <use Chap3/Figures/Figure3.png>
 Package pdftex.def Info: Chap3/Figures/Figure3.png  used on input line 37.
@@ -1513,7 +1497,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 38
  []
 
 [27] [28 <./Chap3/Figures/Figure3.png>]
-<Chap3/Figures/Figure4.png, id=893, 572.3784pt x 192.72pt>
+<Chap3/Figures/Figure4.png, id=872, 572.3784pt x 192.72pt>
 File: Chap3/Figures/Figure4.png Graphic file (type png)
 <use Chap3/Figures/Figure4.png>
 Package pdftex.def Info: Chap3/Figures/Figure4.png  used on input line 47.
@@ -1548,7 +1532,7 @@ df>
 Fab-eps-converted-to.pdf Chap4/Figures/DeviceFab.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=922, 469.755pt x 160.6pt>
+<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=901, 469.755pt x 160.6pt>
 File: Chap4/Figures/DeviceFab-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/DeviceFab-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/DeviceFab-eps-converted-to.pdf  used on 
@@ -1577,7 +1561,7 @@ Package epstopdf Info: Source file: <Chap4/Figures/Temperature.eps>
 ature-eps-converted-to.pdf Chap4/Figures/Temperature.eps>
 (epstopdf)             \includegraphics on input line 16.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/Temperature-eps-converted-to.pdf, id=933, 471.7625pt x 471.7625p
+<Chap4/Figures/Temperature-eps-converted-to.pdf, id=912, 471.7625pt x 471.7625p
 t>
 File: Chap4/Figures/Temperature-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/Temperature-eps-converted-to.pdf>
@@ -1599,7 +1583,7 @@ to.pdf>
 icField-eps-converted-to.pdf Chap4/Figures/MagneticField.eps>
 (epstopdf)             \includegraphics on input line 26.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=949, 470.75874pt x 483.80
+<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=928, 470.75874pt x 483.80
 75pt>
 File: Chap4/Figures/MagneticField-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/MagneticField-eps-converted-to.pdf>
@@ -1643,7 +1627,7 @@ erted-to.pdf>
 ndreevDiagram-eps-converted-to.pdf Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=1068, 489.83pt x 43
+<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=1047, 489.83pt x 43
 1.6125pt>
 File: Appendices/Figures/AndreevDiagram-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -1683,7 +1667,7 @@ verted-to.pdf>
 TKCalculations-eps-converted-to.pdf Appendices/Figures/BTKCalculations.eps>
 (epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=1120, 469.755pt x 
+<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=1099, 469.755pt x 
 528.97626pt>
 File: Appendices/Figures/BTKCalculations-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -1740,7 +1724,7 @@ o.pdf>
 ircuit-eps-converted-to.pdf Appendices/Figures/Circuit.eps>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/Circuit-eps-converted-to.pdf, id=1222, 470.75874pt x 436.63
+<Appendices/Figures/Circuit-eps-converted-to.pdf, id=1207, 470.75874pt x 436.63
 126pt>
 File: Appendices/Figures/Circuit-eps-converted-to.pdf Graphic file (type pdf)
 <use Appendices/Figures/Circuit-eps-converted-to.pdf>
@@ -1815,17 +1799,23 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B2009884A57AB891E1B4B46B91F46555;5699.
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: B2009884A57AB891E1B4B46B91F46555;5699
+(rerunfilecheck)             After:  6F22324DE53AA4CC9D3210CF3F2C704A;5558.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31790 strings out of 479321
- 601347 string characters out of 2856583
+ 31783 strings out of 479321
+ 601242 string characters out of 2856583
  1452652 words of memory out of 3000000
- 48299 multiletter control sequences out of 15000+600000
+ 48296 multiletter control sequences out of 15000+600000
  417401 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,20n,116p,2286b,1464s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1853,9 +1843,9 @@ s/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb
 ><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symb
 ols/msam10.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/symbols/msbm10.pfb>
-Output written on thesis.pdf (84 pages, 4426619 bytes).
+Output written on thesis.pdf (83 pages, 4423614 bytes).
 PDF statistics:
- 1604 PDF objects out of 1728 (max. 8388607)
- 318 named destinations out of 1000 (max. 500000)
+ 1589 PDF objects out of 1728 (max. 8388607)
+ 317 named destinations out of 1000 (max. 500000)
  475 words of extra memory for PDF output out of 10000 (max. 10000000)
 

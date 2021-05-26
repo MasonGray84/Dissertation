@@ -4,9 +4,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{LIST OF FIGURES}{viii}{section*.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{LIST OF APPENDICES}{xi}{section*.6}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{LIST OF ABBREVIATIONS}{xii}{section*.6}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xi}{section*.6}%
 \defcounter {refsection}{0}\relax 
 \mbox { }\newline \noindent {\bf CHAPTER}\newline 
 \defcounter {refsection}{0}\relax 

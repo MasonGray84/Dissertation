@@ -1,19 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'thesis.blg'
-[169] biber-MSWIN64:340> INFO - === 
-[230] Biber.pm:415> INFO - Reading 'thesis.bcf'
-[420] Biber.pm:952> INFO - Found 113 citekeys in bib section 0
-[444] Biber.pm:4340> INFO - Processing section 0
-[463] Biber.pm:4531> INFO - Looking for bibtex format file 'References.bib' for section 0
-[554] bibtex.pm:1689> INFO - LaTeX decoding ...
-[834] bibtex.pm:1494> INFO - Found BibTeX data source 'References.bib'
-[894] Utils.pm:395> WARN - legacy month field 'Nov' in entry 'Kivelson2016' is not an integer - this will probably not sort properly.
-[908] Utils.pm:395> WARN - legacy month field 'oct' in entry 'Kitaev2001' is not an integer - this will probably not sort properly.
-[2504] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\Mason\AppData\Local\Temp\biber_tmp_2tWd\2c752702d164267d08a8792d4ccaec82_25376.utf8, line 1175, warning: 13 characters of junk seen at toplevel
-[2679] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2679] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2679] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[2679] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[2823] bbl.pm:654> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[3026] bbl.pm:757> INFO - Output to thesis.bbl
-[3027] Biber.pm:128> INFO - WARNINGS: 3
+[176] biber-MSWIN64:340> INFO - === 
+[238] Biber.pm:415> INFO - Reading 'thesis.bcf'
+[429] Biber.pm:952> INFO - Found 120 citekeys in bib section 0
+[457] Biber.pm:4340> INFO - Processing section 0
+[475] Biber.pm:4531> INFO - Looking for bibtex format file 'References.bib' for section 0
+[572] bibtex.pm:1689> INFO - LaTeX decoding ...
+[869] bibtex.pm:1494> INFO - Found BibTeX data source 'References.bib'
+[2811] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2811] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2811] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[2811] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[2964] bbl.pm:654> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[3178] bbl.pm:757> INFO - Output to thesis.bbl

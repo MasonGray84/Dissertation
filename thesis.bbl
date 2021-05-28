@@ -535,6 +535,196 @@
       \verb https://doi.org/10.1098/rspa.1984.0023
       \endverb
     \endentry
+    \entry{Xiao2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cc1352d1711338afe7b3f3b971e85c13}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Di},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bfb8c185e39dfe526b01789302433848}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Ming-Che},
+           giveni={M\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=01e582f91ba689333188cfdfc8dfdb33}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{e91eb4889b955b16a10c0fbf7226fa12}
+      \strng{fullhash}{2a481be30ac34c96eee9da72662b95ac}
+      \strng{bibnamehash}{2a481be30ac34c96eee9da72662b95ac}
+      \strng{authorbibnamehash}{2a481be30ac34c96eee9da72662b95ac}
+      \strng{authornamehash}{e91eb4889b955b16a10c0fbf7226fa12}
+      \strng{authorfullhash}{2a481be30ac34c96eee9da72662b95ac}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{3}
+      \field{journaltitle}{Rev. Mod. Phys.}
+      \field{month}{07}
+      \field{title}{Berry phase effects on electronic properties}
+      \field{volume}{82}
+      \field{year}{2010}
+      \field{pages}{1959\bibrangedash 2007}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1103/RevModPhys.82.1959
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/RevModPhys.82.1959
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/RevModPhys.82.1959
+      \endverb
+    \endentry
+    \entry{Onoda2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1fbde5ac064433ea81d44b4a35cdddca}{%
+           family={Onoda},
+           familyi={O\bibinitperiod},
+           given={Masaru},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a79cfba4a53990b92459a6435aab2ca}{%
+           family={Nagaosa},
+           familyi={N\bibinitperiod},
+           given={Naoto},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{51412f11f45fa5555079a94fbc60d3dd}
+      \strng{fullhash}{51412f11f45fa5555079a94fbc60d3dd}
+      \strng{bibnamehash}{51412f11f45fa5555079a94fbc60d3dd}
+      \strng{authorbibnamehash}{51412f11f45fa5555079a94fbc60d3dd}
+      \strng{authornamehash}{51412f11f45fa5555079a94fbc60d3dd}
+      \strng{authorfullhash}{51412f11f45fa5555079a94fbc60d3dd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Physical Society of Japan}
+      \field{number}{1}
+      \field{title}{Topological Nature of Anomalous Hall Effect in Ferromagnets}
+      \field{volume}{71}
+      \field{year}{2002}
+      \field{pages}{19\bibrangedash 22}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1143/JPSJ.71.19
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1143/JPSJ.71.19
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1143/JPSJ.71.19
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1143/JPSJ.71.19
+      \endverb
+    \endentry
+    \entry{Gobel2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6474939f75aec0f446e7baf18dfda786}{%
+           family={Göbel},
+           familyi={G\bibinitperiod},
+           given={Börge},
+           giveni={B\bibinitperiod}}}%
+        {{hash=36c182a7facee7bd16485a7382cd932c}{%
+           family={Mook},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c5bd2d3c6c5f970f9ca4246a5dbc492}{%
+           family={Henk},
+           familyi={H\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a6a178cf8f81ce49453cb0a8e8c3343e}{%
+           family={Mertig},
+           familyi={M\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{fc9554d1327f407c086b77599065e707}
+      \strng{fullhash}{588bb47b81ff54897953c762609dea41}
+      \strng{bibnamehash}{588bb47b81ff54897953c762609dea41}
+      \strng{authorbibnamehash}{588bb47b81ff54897953c762609dea41}
+      \strng{authornamehash}{fc9554d1327f407c086b77599065e707}
+      \strng{authorfullhash}{588bb47b81ff54897953c762609dea41}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{6}
+      \field{journaltitle}{Phys. Rev. B}
+      \field{month}{02}
+      \field{title}{Magnetoelectric effect and orbital magnetization in skyrmion crystals: Detection and characterization of skyrmions}
+      \field{volume}{99}
+      \field{year}{2019}
+      \field{pages}{060406}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.99.060406
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevB.99.060406
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevB.99.060406
+      \endverb
+    \endentry
+    \entry{Kane2005}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a69ae6e73333e494a991e5c0810d2bc2}{%
+           family={Kane},
+           familyi={K\bibinitperiod},
+           given={C.\bibnamedelimi L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d00716828e8ba5f5a87b93553210dade}{%
+           family={Mele},
+           familyi={M\bibinitperiod},
+           given={E.\bibnamedelimi J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{5f92f95b0ff38dca0d9cb284f1bf5089}
+      \strng{fullhash}{5f92f95b0ff38dca0d9cb284f1bf5089}
+      \strng{bibnamehash}{5f92f95b0ff38dca0d9cb284f1bf5089}
+      \strng{authorbibnamehash}{5f92f95b0ff38dca0d9cb284f1bf5089}
+      \strng{authornamehash}{5f92f95b0ff38dca0d9cb284f1bf5089}
+      \strng{authorfullhash}{5f92f95b0ff38dca0d9cb284f1bf5089}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{14}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{09}
+      \field{title}{${Z}_{2}$ Topological Order and the Quantum Spin Hall Effect}
+      \field{volume}{95}
+      \field{year}{2005}
+      \field{pages}{146802}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.95.146802
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.95.146802
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.95.146802
+      \endverb
+    \endentry
     \entry{Kitaev2001}{article}{}
       \name{author}{1}{}{%
         {{hash=34266a35eedbd87dd79c5e408127a5e5}{%
@@ -552,8 +742,8 @@
       \strng{authorbibnamehash}{34266a35eedbd87dd79c5e408127a5e5}
       \strng{authornamehash}{34266a35eedbd87dd79c5e408127a5e5}
       \strng{authorfullhash}{34266a35eedbd87dd79c5e408127a5e5}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physics-Uspekhi}
@@ -596,8 +786,8 @@
       \strng{authorbibnamehash}{c181b274146b8cf737cc68e34c721337}
       \strng{authornamehash}{c181b274146b8cf737cc68e34c721337}
       \strng{authorfullhash}{c181b274146b8cf737cc68e34c721337}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Topological insulators and topological superconductors}
@@ -2215,8 +2405,8 @@
       \strng{authorbibnamehash}{318b50ac878c196535a11f404c4f2ca2}
       \strng{authornamehash}{37674cbd45452bd9e2c73267c85c7724}
       \strng{authorfullhash}{318b50ac878c196535a11f404c4f2ca2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1748-3395}
@@ -2315,8 +2505,8 @@
       \strng{authorbibnamehash}{31144e62535348cf8623e1003244af28}
       \strng{authornamehash}{222c2feaaebd5706e4f60252a006e1a3}
       \strng{authorfullhash}{31144e62535348cf8623e1003244af28}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nano Letters}
@@ -2400,8 +2590,8 @@
       \strng{authorbibnamehash}{429fafde03bb563db333dfb70c7a75b5}
       \strng{authornamehash}{c85707f1a332000e78fac9be44b440f9}
       \strng{authorfullhash}{429fafde03bb563db333dfb70c7a75b5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0956-5663}
@@ -3691,8 +3881,8 @@
       \strng{authorbibnamehash}{cdc5068d0fed2482ee4f833c84da388b}
       \strng{authornamehash}{7f17045a70c373106e513d38bd5e19cb}
       \strng{authorfullhash}{cdc5068d0fed2482ee4f833c84da388b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Physics: Conference Series}
@@ -3771,8 +3961,8 @@
       \strng{authornamehash}{3cd8a5e231504861b24de2bb2115982e}
       \strng{authorfullhash}{deff12a2a809b40da94becb82eee51f1}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Review of Scientific Instruments}
@@ -5131,8 +5321,8 @@
       \strng{authornamehash}{43f6b7d8131958f2f51a0a7de999ff64}
       \strng{authorfullhash}{657bcd62e8cd50bd831262cedfd00836}
       \field{extraname}{4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0036-8075}
@@ -5228,8 +5418,8 @@
       \strng{authornamehash}{b0a1957a3fa1a0b76e4f0eca1cd5d585}
       \strng{authorfullhash}{ad0e3dd71d2419b81e98bd1bad055e54}
       \field{extraname}{3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{11}
@@ -5332,8 +5522,8 @@
       \strng{authornamehash}{e6bf75444558be4570fbfdd18e32ef72}
       \strng{authorfullhash}{9ebad1bdd0ed9c8baf0d49d32517c6ba}
       \field{extraname}{4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0036-8075}
@@ -6508,8 +6698,8 @@
       \strng{authornamehash}{43f6b7d8131958f2f51a0a7de999ff64}
       \strng{authorfullhash}{4fb263460de1c280e79879963d3d893a}
       \field{extraname}{5}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1745-2481}
@@ -6617,8 +6807,8 @@
       \strng{authornamehash}{0782dcea12e581d421b359caf0b6aac8}
       \strng{authorfullhash}{7aada61de3609f58d77d815d837f15da}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{4}
@@ -6688,8 +6878,8 @@
       \strng{authorbibnamehash}{cbbdb1e34719b6c44a7b89b4c59072e9}
       \strng{authornamehash}{d0698f52f6fb28c0736b7739915604ab}
       \strng{authorfullhash}{cbbdb1e34719b6c44a7b89b4c59072e9}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eid}{arXiv:1812.08995}
@@ -7083,8 +7273,8 @@
       \strng{authorbibnamehash}{57f9a12c7e72de45594faba41f397b8c}
       \strng{authornamehash}{0424c4288161b1aa53f4f6c43f1f9f0f}
       \strng{authorfullhash}{57f9a12c7e72de45594faba41f397b8c}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Superconductor Science and Technology}
@@ -7123,8 +7313,8 @@
       \strng{authorbibnamehash}{da8327b8134bfe5df7df56d878699a7a}
       \strng{authornamehash}{26be5cdd6e07b41b0a99de6676de4765}
       \strng{authorfullhash}{da8327b8134bfe5df7df56d878699a7a}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physica C}
@@ -7163,8 +7353,8 @@
       \strng{authorbibnamehash}{839a80f4dd158b1fc952dd9ec6c348ab}
       \strng{authornamehash}{28348a34897637a81c366bbd26b61887}
       \strng{authorfullhash}{839a80f4dd158b1fc952dd9ec6c348ab}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physical Review B}
@@ -7490,8 +7680,8 @@
       \strng{authorbibnamehash}{ab70ad002c149ee8c14859c667d7fb25}
       \strng{authornamehash}{50eb4f2ebf99666b895a04d655aa95c5}
       \strng{authorfullhash}{ab70ad002c149ee8c14859c667d7fb25}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{2D Materials}
@@ -7533,8 +7723,8 @@
       \strng{authorbibnamehash}{2e303b8d81d85a41d39a093febfa48e9}
       \strng{authornamehash}{a119f0b5755f25778d1380e3a91f6160}
       \strng{authorfullhash}{2e303b8d81d85a41d39a093febfa48e9}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{7}
@@ -7573,8 +7763,8 @@
       \strng{authorbibnamehash}{7f1c60a148ba8da99ed241d064618823}
       \strng{authornamehash}{1eb104cdea8dd3b2c7593230f32312b8}
       \strng{authorfullhash}{7f1c60a148ba8da99ed241d064618823}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Superconductor Science Technology}
@@ -8100,8 +8290,8 @@
       \strng{authorbibnamehash}{0d9cab0e2b224c82b8412c1936abd69b}
       \strng{authornamehash}{0d9cab0e2b224c82b8412c1936abd69b}
       \strng{authorfullhash}{0d9cab0e2b224c82b8412c1936abd69b}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Supercond. Sci. Technol.}

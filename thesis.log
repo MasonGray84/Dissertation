@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  27 MAY 2021 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  27 MAY 2021 17:46
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1384,9 +1384,16 @@ Package hyperref Warning: bookmark level for unknown chap defaults to 0.
 
 
 ] [2]
+LaTeX Font Info:    Trying to load font information for U+bbold on input line 1
+7.
+
+(C:\Users\Mason\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ubbold.fd
+File: ubbold.fd 1996/01/01 Blackboard Bold Font Definition File (jk)
+)
+[3]
 Package acronym Info: Label `acro:BdG' newly defined as it shall be overridden
-although it is yet undefined on input line 19.
- [3] [4]
+although it is yet undefined on input line 22.
+ [4]
 Package epstopdf Info: Source file: <Intro/Figures/PWave_SC.eps>
 (epstopdf)                    date: 2021-05-26 12:24:24
 (epstopdf)                    size: 282277 bytes
@@ -1396,29 +1403,29 @@ f>
 (epstopdf)                    size: 147181 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Intro/Figures/PWave_
 SC-eps-converted-to.pdf Intro/Figures/PWave_SC.eps>
-(epstopdf)             \includegraphics on input line 44.
+(epstopdf)             \includegraphics on input line 47.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex.exe (file ./Intro/Figures/PWave_SC-eps-converted-to.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Intro/Figures/PWave_SC-eps-converted-to.pdf, id=533, 513.92pt x 224.84pt>
+<Intro/Figures/PWave_SC-eps-converted-to.pdf, id=541, 513.92pt x 224.84pt>
 File: Intro/Figures/PWave_SC-eps-converted-to.pdf Graphic file (type pdf)
 <use Intro/Figures/PWave_SC-eps-converted-to.pdf>
 Package pdftex.def Info: Intro/Figures/PWave_SC-eps-converted-to.pdf  used on i
-nput line 44.
+nput line 47.
 (pdftex.def)             Requested size: 416.9982pt x 182.43846pt.
 
-Overfull \hbox (58.58412pt too wide) detected at line 45
+Overfull \hbox (58.58412pt too wide) detected at line 48
 \OT1/cmr/m/n/12 Figure 1.1: []
  []
 
-[5 <./Intro/Figures/PWave_SC-eps-converted-to.pdf>] [6]) [7]
+[5] [6 <./Intro/Figures/PWave_SC-eps-converted-to.pdf>]) [7] [8]
 CHAPTER II.
-(Chap2/chap2.tex [8
+(Chap2/chap2.tex [9
 
 ]
-<Chap2/Figures/IntroductionFigure.png, id=572, 483.7272pt x 345.9324pt>
+<Chap2/Figures/IntroductionFigure.png, id=586, 483.7272pt x 345.9324pt>
 File: Chap2/Figures/IntroductionFigure.png Graphic file (type png)
 <use Chap2/Figures/IntroductionFigure.png>
 Package pdftex.def Info: Chap2/Figures/IntroductionFigure.png  used on input li
@@ -1429,8 +1436,8 @@ Overfull \hbox (58.58412pt too wide) detected at line 10
 \OT1/cmr/m/n/12 Figure 2.1: []
  []
 
-[9] [10 <./Chap2/Figures/IntroductionFigure.png>] [11]
-<Chap2/Figures/CharacterizationFigure.png, id=605, 257.2812pt x 266.9172pt>
+[10] [11 <./Chap2/Figures/IntroductionFigure.png>] [12]
+<Chap2/Figures/CharacterizationFigure.png, id=620, 257.2812pt x 266.9172pt>
 File: Chap2/Figures/CharacterizationFigure.png Graphic file (type png)
 <use Chap2/Figures/CharacterizationFigure.png>
 Package pdftex.def Info: Chap2/Figures/CharacterizationFigure.png  used on inpu
@@ -1441,8 +1448,8 @@ Overfull \hbox (58.58412pt too wide) detected at line 23
 \OT1/cmr/m/n/12 Figure 2.2: []
  []
 
-[12] [13 <./Chap2/Figures/CharacterizationFigure.png>] [14]
-<Chap2/Figures/FabricationFigure.png, id=638, 483.2454pt x 323.7696pt>
+[13] [14 <./Chap2/Figures/CharacterizationFigure.png>] [15]
+<Chap2/Figures/FabricationFigure.png, id=652, 483.2454pt x 323.7696pt>
 File: Chap2/Figures/FabricationFigure.png Graphic file (type png)
 <use Chap2/Figures/FabricationFigure.png>
 Package pdftex.def Info: Chap2/Figures/FabricationFigure.png  used on input lin
@@ -1453,10 +1460,10 @@ Overfull \hbox (58.58412pt too wide) detected at line 38
 \OT1/cmr/m/n/12 Figure 2.3: []
  []
 
-[15] [16 <./Chap2/Figures/FabricationFigure.png>] [17] [18]) [19]
+[16] [17 <./Chap2/Figures/FabricationFigure.png>] [18] [19]) [20]
 CHAPTER III.
 (Chap3/chap3.tex
-<Chap3/Figures/F1V1.png, id=706, 505.89pt x 415.3116pt>
+<Chap3/Figures/F1V1.png, id=720, 505.89pt x 415.3116pt>
 File: Chap3/Figures/F1V1.png Graphic file (type png)
 <use Chap3/Figures/F1V1.png>
 Package pdftex.def Info: Chap3/Figures/F1V1.png  used on input line 5.
@@ -1466,10 +1473,10 @@ Overfull \hbox (58.58412pt too wide) detected at line 6
 \OT1/cmr/m/n/12 Figure 3.1: []
  []
 
-[20
+[21
 
-] [21] [22 <./Chap3/Figures/F1V1.png>] [23]
-<Chap3/Figures/Figure2.png, id=798, 556.479pt x 387.3672pt>
+] [22] [23 <./Chap3/Figures/F1V1.png>] [24]
+<Chap3/Figures/Figure2.png, id=813, 556.479pt x 387.3672pt>
 File: Chap3/Figures/Figure2.png Graphic file (type png)
 <use Chap3/Figures/Figure2.png>
 Package pdftex.def Info: Chap3/Figures/Figure2.png  used on input line 22.
@@ -1479,8 +1486,8 @@ Overfull \hbox (58.58412pt too wide) detected at line 23
 \OT1/cmr/m/n/12 Figure 3.2: []
  []
 
-[24] [25 <./Chap3/Figures/Figure2.png>] [26] [27]
-<Chap3/Figures/Figure3.png, id=864, 550.2156pt x 193.6836pt>
+[25] [26 <./Chap3/Figures/Figure2.png>] [27] [28]
+<Chap3/Figures/Figure3.png, id=878, 550.2156pt x 193.6836pt>
 File: Chap3/Figures/Figure3.png Graphic file (type png)
 <use Chap3/Figures/Figure3.png>
 Package pdftex.def Info: Chap3/Figures/Figure3.png  used on input line 37.
@@ -1490,8 +1497,8 @@ Overfull \hbox (58.58412pt too wide) detected at line 38
 \OT1/cmr/m/n/12 Figure 3.3: []
  []
 
-[28] [29 <./Chap3/Figures/Figure3.png>]
-<Chap3/Figures/Figure4.png, id=883, 572.3784pt x 192.72pt>
+[29] [30 <./Chap3/Figures/Figure3.png>]
+<Chap3/Figures/Figure4.png, id=898, 572.3784pt x 192.72pt>
 File: Chap3/Figures/Figure4.png Graphic file (type png)
 <use Chap3/Figures/Figure4.png>
 Package pdftex.def Info: Chap3/Figures/Figure4.png  used on input line 47.
@@ -1501,7 +1508,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 48
 \OT1/cmr/m/n/12 Figure 3.4: []
  []
 
-[30]) [31 <./Chap3/Figures/Figure4.png>] [32]
+[31]) [32 <./Chap3/Figures/Figure4.png>] [33]
 CHAPTER IV.
 (Chap4/Chap4.tex
 Overfull \hbox (2.30629pt too wide) in paragraph at lines 4--4
@@ -1512,7 +1519,7 @@ Package acronym Info: Label `acro:BCS' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
 Package acronym Info: Label `acro:PAR' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
-[33
+[34
 
 ]
 Package epstopdf Info: Source file: <Chap4/Figures/DeviceFab.eps>
@@ -1526,7 +1533,7 @@ df>
 Fab-eps-converted-to.pdf Chap4/Figures/DeviceFab.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=912, 469.755pt x 160.6pt>
+<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=926, 469.755pt x 160.6pt>
 File: Chap4/Figures/DeviceFab-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/DeviceFab-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/DeviceFab-eps-converted-to.pdf  used on 
@@ -1541,9 +1548,9 @@ Overfull \hbox (58.58412pt too wide) detected at line 9
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Marginpar on page 34 moved.
+LaTeX Warning: Marginpar on page 35 moved.
 
-[34]
+[35]
 Package epstopdf Info: Source file: <Chap4/Figures/Temperature.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 2523874 bytes
@@ -1555,7 +1562,7 @@ Package epstopdf Info: Source file: <Chap4/Figures/Temperature.eps>
 ature-eps-converted-to.pdf Chap4/Figures/Temperature.eps>
 (epstopdf)             \includegraphics on input line 16.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/Temperature-eps-converted-to.pdf, id=923, 471.7625pt x 471.7625p
+<Chap4/Figures/Temperature-eps-converted-to.pdf, id=937, 471.7625pt x 471.7625p
 t>
 File: Chap4/Figures/Temperature-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/Temperature-eps-converted-to.pdf>
@@ -1577,39 +1584,39 @@ to.pdf>
 icField-eps-converted-to.pdf Chap4/Figures/MagneticField.eps>
 (epstopdf)             \includegraphics on input line 26.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=939, 470.75874pt x 483.80
+<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=953, 470.75874pt x 483.80
 75pt>
 File: Chap4/Figures/MagneticField-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/MagneticField-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/MagneticField-eps-converted-to.pdf  used
  on input line 26.
 (pdftex.def)             Requested size: 416.9982pt x 428.55719pt.
-[35 <./Chap4/Figures/DeviceFab-eps-converted-to.pdf>] [36 <./Chap4/Figures/Temp
+[36 <./Chap4/Figures/DeviceFab-eps-converted-to.pdf>] [37 <./Chap4/Figures/Temp
 erature-eps-converted-to.pdf>]
 
-LaTeX Warning: Marginpar on page 37 moved.
+LaTeX Warning: Marginpar on page 38 moved.
 
 
-LaTeX Warning: Reference `chap:chap3' on page 37 undefined on input line 31.
+LaTeX Warning: Reference `chap:chap3' on page 38 undefined on input line 31.
 
-) [37 <./Chap4/Figures/MagneticField-eps-converted-to.pdf>] [38]
+) [38 <./Chap4/Figures/MagneticField-eps-converted-to.pdf>] [39]
 CHAPTER V.
-(Chap5/chap5.tex [39
+(Chap5/chap5.tex [40
 
 ]
 Package acronym Info: Label `acro:TI' newly defined as it shall be overridden
 although it is yet undefined on input line 4.
 Package acronym Info: Label `acro:DoS' newly defined as it shall be overridden
 although it is yet undefined on input line 4.
- [40] [41] [42]) [43] [44
+ [41] [42] [43]) [44] [45
 
 ]
 APPENDIX A.
 Package hyperref Info: bookmark level for unknown appendix defaults to 0 on inp
 ut line 200.
-(Appendices/ARFit.tex [45
+(Appendices/ARFit.tex [46
 
-] [46] [47]
+] [47] [48]
 Package epstopdf Info: Source file: <Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 507455 bytes
@@ -1621,7 +1628,7 @@ erted-to.pdf>
 ndreevDiagram-eps-converted-to.pdf Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=1058, 489.83pt x 43
+<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=1073, 489.83pt x 43
 1.6125pt>
 File: Appendices/Figures/AndreevDiagram-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -1648,8 +1655,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--65
 
  []
 
-[48] [49 <./Appendices/Figures/AndreevDiagram-eps-converted-to.pdf>] [50]
-[51]
+[49] [50 <./Appendices/Figures/AndreevDiagram-eps-converted-to.pdf>] [51]
+[52]
 Package epstopdf Info: Source file: <Appendices/Figures/BTKCalculations.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 659956 bytes
@@ -1661,7 +1668,7 @@ verted-to.pdf>
 TKCalculations-eps-converted-to.pdf Appendices/Figures/BTKCalculations.eps>
 (epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=1110, 469.755pt x 
+<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=1124, 469.755pt x 
 528.97626pt>
 File: Appendices/Figures/BTKCalculations-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -1682,20 +1689,20 @@ Overfull \hbox (26.62497pt too wide) in paragraph at lines 156--168
 convolve(vector1,vector2).
  []
 
-[52] [53 <./Appendices/Figures/BTKCalculations-eps-converted-to.pdf>])
+[53] [54 <./Appendices/Figures/BTKCalculations-eps-converted-to.pdf>])
 Overfull \hbox (0.24886pt too wide) in paragraph at lines 177--203
 []\OT1/cmr/m/n/12 Algorithm 4 is an-other sim-ple func-tion to ei-ther fit the 
 temperature-dependence
  []
 
-[54] [55]
+[55] [56]
 APPENDIX B.
 (Appendices/Circuit.tex
 Overfull \hbox (22.07002pt too wide) detected at line 9
 []
  []
 
-[56
+[57
 
 ]
 Overfull \hbox (2.603pt too wide) in paragraph at lines 18--19
@@ -1703,10 +1710,10 @@ Overfull \hbox (2.603pt too wide) in paragraph at lines 18--19
 s to mea-sure the current-
  []
 
-[57]
+[58]
 Package acronym Info: Label `acro:LIA' newly defined as it shall be overridden
 although it is yet undefined on input line 22.
- [58]
+ [59]
 Package epstopdf Info: Source file: <Appendices/Figures/Circuit.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 287519 bytes
@@ -1718,7 +1725,7 @@ o.pdf>
 ircuit-eps-converted-to.pdf Appendices/Figures/Circuit.eps>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/Circuit-eps-converted-to.pdf, id=1218, 470.75874pt x 436.63
+<Appendices/Figures/Circuit-eps-converted-to.pdf, id=1232, 470.75874pt x 436.63
 126pt>
 File: Appendices/Figures/Circuit-eps-converted-to.pdf Graphic file (type pdf)
 <use Appendices/Figures/Circuit-eps-converted-to.pdf>
@@ -1735,57 +1742,63 @@ Overfull \hbox (61.02994pt too wide) detected at line 29
 \OT1/cmr/m/n/12 Figure B.1: []
  []
 
-[59] [60 <./Appendices/Figures/Circuit-eps-converted-to.pdf>]) [61]
+[60] [61 <./Appendices/Figures/Circuit-eps-converted-to.pdf>]) [62]
 Overfull \hbox (12.18007pt too wide) in paragraph at lines 215--215
 []\OT1/cmr/m/n/12 E. Noether, ``In-vari-ante vari-a-tion-sprob-leme'', ger, []N
 achrichten von der Gesellschaft
  []
 
 
+Overfull \hbox (6.85144pt too wide) in paragraph at lines 215--215
+\OT1/cmr/m/n/12 mag-ne-ti-za-tion in skyrmion crys-tals: de-tec-tion and char-a
+c-ter-i-za-tion of skyrmions'',
+ []
+
+[63
+
+]
 Overfull \hbox (1.12332pt too wide) in paragraph at lines 215--215
 []\OT1/cmr/m/n/12 A. Y. Ki-taev, ``Un-paired ma-jo-rana fermions in quan-tum wi
 res'', []Physics-Uspekhi
  []
 
-[62
 
-]
 Overfull \hbox (4.42299pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 study-ing the prop-er-ties of graphene.'', Na-ture Nan-otech-no
 l-ogy \OT1/cmr/bx/n/12 8\OT1/cmr/m/n/12 , 235{246 (2013). 
  []
 
-[63] [64]
+[64] [65]
 Overfull \hbox (19.02646pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 C. Casir-aghi, H. Guo, A. Geim, and K. Novoselov, ``Commensurat
 e-incommensurate
  []
 
-[65] [66]
+[66] [67]
 Overfull \hbox (5.11302pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 ``Reflection-symmetric second-order topo-log-i-cal in-su-la-tor
 s and su-per-con-duc-tors'',
  []
 
-[67] [68]
+[68] [69] [70]
 Overfull \hbox (20.16069pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 log-i-cal sur-face state of fe(se,te)'', arXiv e-prints, arXiv:
 1812.08995, arXiv:1812.08995
  []
 
-[69]
+
 Overfull \hbox (45.65329pt too wide) in paragraph at lines 215--215
 []\OT1/cmr/m/n/12 S. Sinha and K.[]W. Ng, ``Zero bias con-duc-tance peak en-han
 ce-ment in $[][][][][][]\OML/cmm/m/it/12 O[]=[]$
  []
 
-[70]
+[71]
 Overfull \hbox (2.42221pt too wide) in paragraph at lines 215--215
 []\OT1/cmr/m/n/12 D. Daghero and G. R.S., ``Prob-ing multi-band su-per-con-duc-
 tiv-ity by point-contact
  []
 
-[71] [72] (thesis.aux)
+[72] [73] (thesis.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.88pt have occurred.
@@ -1800,40 +1813,41 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31807 strings out of 479321
- 601988 string characters out of 2856583
- 1453001 words of memory out of 3000000
- 48310 multiletter control sequences out of 15000+600000
- 417401 words of font info for 81 fonts, out of 8000000 for 9000
+ 31839 strings out of 479321
+ 602887 string characters out of 2856583
+ 1453190 words of memory out of 3000000
+ 48328 multiletter control sequences out of 15000+600000
+ 418324 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,20n,116p,2286b,1465s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Mason\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx8.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Mason/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Mason/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Mason/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users
-/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
-C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-10.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr12.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr17.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr6.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Mason/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mason/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Mason/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Mason/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/User
-s/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb
-><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symb
-ols/msam10.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/symbols/msbm10.pfb>
-Output written on thesis.pdf (85 pages, 4432122 bytes).
+ 113i,20n,116p,2286b,1461s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Mason\AppData\Local\MiKTeX\fonts/pk/ljfour/public/bbold/dpi600\bbo
+ld12.pk> <C:\Users\Mason\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm1200.pk><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Mason/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Mason/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Mason/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/M
+ason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:
+/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8
+.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr17.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Mason/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Mason/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mason/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Mason/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/M
+ason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C
+:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt
+12.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/symbols/msam10.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/symbols/msbm10.pfb>
+Output written on thesis.pdf (86 pages, 4438017 bytes).
 PDF statistics:
- 1621 PDF objects out of 1728 (max. 8388607)
- 327 named destinations out of 1000 (max. 500000)
+ 1644 PDF objects out of 1728 (max. 8388607)
+ 332 named destinations out of 1000 (max. 500000)
  467 words of extra memory for PDF output out of 10000 (max. 10000000)
 

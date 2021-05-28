@@ -1,7 +1,7 @@
 As mentioned in the main text, \acl{AR} is the process by which an electron is reflected as a hole at the interface between a normal-metal / superconductor interface. By modeling and fitting our data to this model we are able to extract useful quantities such as the superconducting gap size (at a specific temperature), the transparency of the interface, and the thermal broadening of our spectra from our junction size. Thus, here I layout a condensed version of the \ac{BTK} calculation for differential conductance across a normal-metal / superconducting interface then I go through pseudo-code on how to fit this calculation to our data.
 
 \section{BTK Theory}
-In 1964, Alexander F. Andreev published a paper describing a process by which an electron incident upon a superconductor forms a cooper pair in the superconductor and retro-reflects a hole\cite{Andreev1964}. This phenomena was originally used to describe the thermal conductivity properties observed in superconductors in the intermediate state where there are many normal sections in direct contact with superconducting sections. It wasn't until 1982 that Blonder, Tinkham, and Klapwijk gave a complete discussion of the phenomena including the effect of the barrier magnitude, a model for the excess current, and predictions for the differential conductance of such a junctions\cite{BTK}.\par
+In 1964, Alexander F. Andreev published a paper describing a process by which an electron incident upon a superconductor forms a cooper pair in the superconductor and retro-reflects a hole\cite{Andreev1964}. This phenomena was originally used to describe the thermal conductivity properties observed in superconductors in the intermediate state where there are many normal sections in direct contact with superconducting sections. It wasn't until 1982 that Blonder, Tinkham, and Klapwijk used the phenomena to calculate the differential conductance spectra across a normal metal/superconductor junction\cite{BTK}.\par
 
 \subsection{The BdG Formalism}
 The key innovation in the \ac{BTK} model is the use of the \ac{BdG} equations to match the wavefunctions of the quasi-particles excitations at the interface\cite{BTK}. Here I will closely follow the explanation of the \ac{BdG} equations shown in Chapter 14 of "Topological Insulators and Topological Superconductivity" by Bernevig and Hughes\cite{bernevig_hughes_2013}. First we start with the Hamiltonian for a single-particle in a simple metal.
@@ -86,7 +86,7 @@ then the derivatives.
     iq^{+}A\begin{pmatrix}u_{0}\\v_{0}\end{pmatrix}e^{iq^{+}x_{0}}
     -iq^{-}B\begin{pmatrix}u_{0}\\v_{0}\end{pmatrix}e^{-iq^{-}x_{0}}
     \right\}\\
-    &\qquad+H*\left\{
+    &\qquad+\left\{
     A\begin{pmatrix}u_{0}\\v_{0}\end{pmatrix}e^{iq^{+}x_{0}}
     +B\begin{pmatrix}u_{0}\\v_{0}\end{pmatrix}e^{-iq^{-}x_{0}}
     \right\}
@@ -125,13 +125,13 @@ so that we can set $E_{FN}=E_{FSC}$ and $m_{N}=m_{SC}$. Next, we set $\gamma=u_{
     \end{matrix}
 \end{align}
 Thus we can simply read-off the differential conductance across the junction as:
-\[
-\sigma = 2*d(E)+a(E)+b(E)
-\]
+\begin{align}
+\sigma_{n} = 2*d(E)+a(E)+b(E)
+\end{align}
 The plots for various potential barrier strengths ($Z$) are shown in Fig \ref{fig:BTKGraphs} along with some other corrections in the next section.
 
 \section{Pseudo-Code for fitting spectra}
-Tunneling in a normal metal/superconductor interface can produce wildly different spectra depending on the various parameters such as temperature, barrier height, disorder, and more. This pseudo-code was written to characterize such superconducting tunneling spectra via the 1D \ac{BTK} model and extract information such as the superconducting gap. The results of running each individual algorithm are shown in Fig \ref{fig:BTKGraphs} to show how each parameters affects a tunneling spectrum, however in most cases one will need to use two or more of these algorithms in concert to obtain a good fit for a spectrum. For a full extension of the model to 2D, 3D, and unconventional superconductivity please read the in-depth topical reviews by D. Daghero \& R. S. Gonnelli\cite{Daghero2010} and Kashiwaya \& Tanaka\cite{Kashiwaya2000}.\par
+Tunneling in a normal metal/superconductor interface can produce wildly different spectra depending on the various parameters such as temperature, barrier height, disorder, and more (see Fig \ref{fig:BTKGraphs} for a few simple examples). This pseudo-code was written to characterize such superconducting tunneling spectra via the 1D \ac{BTK} model and extract information such as the superconducting gap. The results of running each individual algorithm are shown in Fig \ref{fig:BTKGraphs} to show how each parameters affects a tunneling spectrum, however in most cases one will need to use two or more of these algorithms in concert to obtain a good fit for a spectrum. For a full extension of the model to 2D, 3D, and unconventional superconductivity please read the in-depth topical reviews by D. Daghero \& R. S. Gonnelli\cite{Daghero2010} and Kashiwaya \& Tanaka\cite{Kashiwaya2000}.\par
 First we write a function (Algorithm 1) that calculates the \ac{BTK} conductance spectra at zero temperature. The inputs to this functions are: the measured voltage vector in millivolts (meV), the barrier height (Z), the superconducting energy gap ($\Delta_{SC}$), and the thermal broadening parameter ($\Gamma$).
 \begin{figure}
     \centering

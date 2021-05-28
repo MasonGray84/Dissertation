@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  27 MAY 2021 17:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  28 MAY 2021 10:27
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1409,7 +1409,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./Intro/Figures/PWave_SC-eps-converted-to.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Intro/Figures/PWave_SC-eps-converted-to.pdf, id=541, 513.92pt x 224.84pt>
+<Intro/Figures/PWave_SC-eps-converted-to.pdf, id=545, 513.92pt x 224.84pt>
 File: Intro/Figures/PWave_SC-eps-converted-to.pdf Graphic file (type pdf)
 <use Intro/Figures/PWave_SC-eps-converted-to.pdf>
 Package pdftex.def Info: Intro/Figures/PWave_SC-eps-converted-to.pdf  used on i
@@ -1420,12 +1420,15 @@ Overfull \hbox (58.58412pt too wide) detected at line 48
 \OT1/cmr/m/n/12 Figure 1.1: []
  []
 
-[5] [6 <./Intro/Figures/PWave_SC-eps-converted-to.pdf>]) [7] [8]
+[5] [6 <./Intro/Figures/PWave_SC-eps-converted-to.pdf>]
+Package acronym Info: Label `acro:MZM' newly defined as it shall be overridden
+although it is yet undefined on input line 66.
+ [7]) [8]
 CHAPTER II.
 (Chap2/chap2.tex [9
 
 ]
-<Chap2/Figures/IntroductionFigure.png, id=586, 483.7272pt x 345.9324pt>
+<Chap2/Figures/IntroductionFigure.png, id=610, 483.7272pt x 345.9324pt>
 File: Chap2/Figures/IntroductionFigure.png Graphic file (type png)
 <use Chap2/Figures/IntroductionFigure.png>
 Package pdftex.def Info: Chap2/Figures/IntroductionFigure.png  used on input li
@@ -1437,7 +1440,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 10
  []
 
 [10] [11 <./Chap2/Figures/IntroductionFigure.png>] [12]
-<Chap2/Figures/CharacterizationFigure.png, id=620, 257.2812pt x 266.9172pt>
+<Chap2/Figures/CharacterizationFigure.png, id=644, 257.2812pt x 266.9172pt>
 File: Chap2/Figures/CharacterizationFigure.png Graphic file (type png)
 <use Chap2/Figures/CharacterizationFigure.png>
 Package pdftex.def Info: Chap2/Figures/CharacterizationFigure.png  used on inpu
@@ -1449,7 +1452,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 23
  []
 
 [13] [14 <./Chap2/Figures/CharacterizationFigure.png>] [15]
-<Chap2/Figures/FabricationFigure.png, id=652, 483.2454pt x 323.7696pt>
+<Chap2/Figures/FabricationFigure.png, id=676, 483.2454pt x 323.7696pt>
 File: Chap2/Figures/FabricationFigure.png Graphic file (type png)
 <use Chap2/Figures/FabricationFigure.png>
 Package pdftex.def Info: Chap2/Figures/FabricationFigure.png  used on input lin
@@ -1463,7 +1466,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 38
 [16] [17 <./Chap2/Figures/FabricationFigure.png>] [18] [19]) [20]
 CHAPTER III.
 (Chap3/chap3.tex
-<Chap3/Figures/F1V1.png, id=720, 505.89pt x 415.3116pt>
+<Chap3/Figures/F1V1.png, id=744, 505.89pt x 415.3116pt>
 File: Chap3/Figures/F1V1.png Graphic file (type png)
 <use Chap3/Figures/F1V1.png>
 Package pdftex.def Info: Chap3/Figures/F1V1.png  used on input line 5.
@@ -1476,7 +1479,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 6
 [21
 
 ] [22] [23 <./Chap3/Figures/F1V1.png>] [24]
-<Chap3/Figures/Figure2.png, id=813, 556.479pt x 387.3672pt>
+<Chap3/Figures/Figure2.png, id=837, 556.479pt x 387.3672pt>
 File: Chap3/Figures/Figure2.png Graphic file (type png)
 <use Chap3/Figures/Figure2.png>
 Package pdftex.def Info: Chap3/Figures/Figure2.png  used on input line 22.
@@ -1487,7 +1490,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 23
  []
 
 [25] [26 <./Chap3/Figures/Figure2.png>] [27] [28]
-<Chap3/Figures/Figure3.png, id=878, 550.2156pt x 193.6836pt>
+<Chap3/Figures/Figure3.png, id=902, 550.2156pt x 193.6836pt>
 File: Chap3/Figures/Figure3.png Graphic file (type png)
 <use Chap3/Figures/Figure3.png>
 Package pdftex.def Info: Chap3/Figures/Figure3.png  used on input line 37.
@@ -1498,7 +1501,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 38
  []
 
 [29] [30 <./Chap3/Figures/Figure3.png>]
-<Chap3/Figures/Figure4.png, id=898, 572.3784pt x 192.72pt>
+<Chap3/Figures/Figure4.png, id=922, 572.3784pt x 192.72pt>
 File: Chap3/Figures/Figure4.png Graphic file (type png)
 <use Chap3/Figures/Figure4.png>
 Package pdftex.def Info: Chap3/Figures/Figure4.png  used on input line 47.
@@ -1533,7 +1536,7 @@ df>
 Fab-eps-converted-to.pdf Chap4/Figures/DeviceFab.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=926, 469.755pt x 160.6pt>
+<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=950, 469.755pt x 160.6pt>
 File: Chap4/Figures/DeviceFab-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/DeviceFab-eps-converted-to.pdf>
 Package pdftex.def Info: Chap4/Figures/DeviceFab-eps-converted-to.pdf  used on 
@@ -1562,7 +1565,7 @@ Package epstopdf Info: Source file: <Chap4/Figures/Temperature.eps>
 ature-eps-converted-to.pdf Chap4/Figures/Temperature.eps>
 (epstopdf)             \includegraphics on input line 16.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/Temperature-eps-converted-to.pdf, id=937, 471.7625pt x 471.7625p
+<Chap4/Figures/Temperature-eps-converted-to.pdf, id=961, 471.7625pt x 471.7625p
 t>
 File: Chap4/Figures/Temperature-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/Temperature-eps-converted-to.pdf>
@@ -1584,7 +1587,7 @@ to.pdf>
 icField-eps-converted-to.pdf Chap4/Figures/MagneticField.eps>
 (epstopdf)             \includegraphics on input line 26.
 Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=953, 470.75874pt x 483.80
+<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=977, 470.75874pt x 483.80
 75pt>
 File: Chap4/Figures/MagneticField-eps-converted-to.pdf Graphic file (type pdf)
 <use Chap4/Figures/MagneticField-eps-converted-to.pdf>
@@ -1628,7 +1631,7 @@ erted-to.pdf>
 ndreevDiagram-eps-converted-to.pdf Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=1073, 489.83pt x 43
+<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=1097, 489.83pt x 43
 1.6125pt>
 File: Appendices/Figures/AndreevDiagram-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -1668,7 +1671,7 @@ verted-to.pdf>
 TKCalculations-eps-converted-to.pdf Appendices/Figures/BTKCalculations.eps>
 (epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=1124, 469.755pt x 
+<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=1148, 469.755pt x 
 528.97626pt>
 File: Appendices/Figures/BTKCalculations-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -1725,7 +1728,7 @@ o.pdf>
 ircuit-eps-converted-to.pdf Appendices/Figures/Circuit.eps>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/Circuit-eps-converted-to.pdf, id=1232, 470.75874pt x 436.63
+<Appendices/Figures/Circuit-eps-converted-to.pdf, id=1256, 470.75874pt x 436.63
 126pt>
 File: Appendices/Figures/Circuit-eps-converted-to.pdf Graphic file (type pdf)
 <use Appendices/Figures/Circuit-eps-converted-to.pdf>
@@ -1768,19 +1771,19 @@ Overfull \hbox (4.42299pt too wide) in paragraph at lines 215--215
 l-ogy \OT1/cmr/bx/n/12 8\OT1/cmr/m/n/12 , 235{246 (2013). 
  []
 
-[64] [65]
+[64] [65] [66]
 Overfull \hbox (19.02646pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 C. Casir-aghi, H. Guo, A. Geim, and K. Novoselov, ``Commensurat
 e-incommensurate
  []
 
-[66] [67]
+[67] [68]
 Overfull \hbox (5.11302pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 ``Reflection-symmetric second-order topo-log-i-cal in-su-la-tor
 s and su-per-con-duc-tors'',
  []
 
-[68] [69] [70]
+[69] [70]
 Overfull \hbox (20.16069pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 log-i-cal sur-face state of fe(se,te)'', arXiv e-prints, arXiv:
 1812.08995, arXiv:1812.08995
@@ -1792,13 +1795,13 @@ Overfull \hbox (45.65329pt too wide) in paragraph at lines 215--215
 ce-ment in $[][][][][][]\OML/cmm/m/it/12 O[]=[]$
  []
 
-[71]
+[71] [72]
 Overfull \hbox (2.42221pt too wide) in paragraph at lines 215--215
 []\OT1/cmr/m/n/12 D. Daghero and G. R.S., ``Prob-ing multi-band su-per-con-duc-
 tiv-ity by point-contact
  []
 
-[72] [73] (thesis.aux)
+[73] (thesis.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.88pt have occurred.
@@ -1807,19 +1810,19 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 96DB9B0F4196940BC0F33058E2ECD5CE;5489.
+(rerunfilecheck)             Checksum: FDE635F0240B15EBED97A8F171698C4A;5489.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31839 strings out of 479321
- 602887 string characters out of 2856583
- 1453190 words of memory out of 3000000
- 48328 multiletter control sequences out of 15000+600000
+ 31872 strings out of 479321
+ 603808 string characters out of 2856583
+ 1453453 words of memory out of 3000000
+ 48351 multiletter control sequences out of 15000+600000
  418324 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,20n,116p,2286b,1461s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 113i,20n,116p,2286b,1470s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Mason\AppData\Local\MiKTeX\fonts/pk/ljfour/public/bbold/dpi600\bbo
 ld12.pk> <C:\Users\Mason\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1200.pk><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1845,9 +1848,9 @@ ason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C
 12.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/symbols/msam10.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/symbols/msbm10.pfb>
-Output written on thesis.pdf (86 pages, 4438017 bytes).
+Output written on thesis.pdf (86 pages, 4446595 bytes).
 PDF statistics:
- 1644 PDF objects out of 1728 (max. 8388607)
- 332 named destinations out of 1000 (max. 500000)
+ 1679 PDF objects out of 1728 (max. 8388607)
+ 342 named destinations out of 1000 (max. 500000)
  467 words of extra memory for PDF output out of 10000 (max. 10000000)
 

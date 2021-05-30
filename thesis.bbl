@@ -8366,6 +8366,297 @@
       \verb cond-mat/0102276
       \endverb
     \endentry
+    \entry{Borisenko2020}{article}{}
+      \name{author}{8}{}{%
+        {{hash=18b2b743708839a6c8922292dfa64171}{%
+           family={Borisenko},
+           familyi={B\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fe58e780bfbd269c1d058d405918daf1}{%
+           family={Bezguba},
+           familyi={B\bibinitperiod},
+           given={Volodymyr},
+           giveni={V\bibinitperiod}}}%
+        {{hash=67a5f1b0762029a8454f81991cb20260}{%
+           family={Fedorov},
+           familyi={F\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=011f8f07e68d664db492690f808bd10f}{%
+           family={Kushnirenko},
+           familyi={K\bibinitperiod},
+           given={Yevhen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ae3008c499cc4a93e229ac0739854c16}{%
+           family={Voroshnin},
+           familyi={V\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=023e7ec7b1ea722e851da13190e988cc}{%
+           family={Sturza},
+           familyi={S\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7abbcf91ecf3e513f78982f7a92fd1d3}{%
+           family={Aswartham},
+           familyi={A\bibinitperiod},
+           given={Saicharan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=59f8d294b46d2ada0a5b67925e3f47c0}{%
+           family={Yaresko},
+           familyi={Y\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{441d5395de437090fd0d75ee7666871a}
+      \strng{fullhash}{d50ec1fb43c731aaa1dabc7a05185c3c}
+      \strng{bibnamehash}{d50ec1fb43c731aaa1dabc7a05185c3c}
+      \strng{authorbibnamehash}{d50ec1fb43c731aaa1dabc7a05185c3c}
+      \strng{authornamehash}{441d5395de437090fd0d75ee7666871a}
+      \strng{authorfullhash}{d50ec1fb43c731aaa1dabc7a05185c3c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2397-4648}
+      \field{journaltitle}{npj Quantum Materials}
+      \field{month}{09}
+      \field{number}{1}
+      \field{title}{Strongly correlated superconductor with polytypic 3D Dirac points}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{67}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41535-020-00268-4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41535-020-00268-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41535-020-00268-4
+      \endverb
+    \endentry
+    \entry{Young2014}{article}{}
+      \name{author}{8}{}{%
+        {{hash=4e00ca9f36cd5e17bb6aeb26c5f03619}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e8a9a979b5998680b86e357d28d01a5b}{%
+           family={Sanchez-Yamagishi},
+           familyi={S\bibinithyphendelim Y\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=814b04840daeaa65e32e97b9a42ab5aa}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=05f1419f475b79068c04af91cb4c4f91}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=43d8b33365445b3084333b504c933fac}{%
+           family={Watanabe},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4488630ad673cc4884e8a1f4996898bd}{%
+           family={Taniguchi},
+           familyi={T\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0dce6e921360da0aca0cbe91b929f679}{%
+           family={Ashoori},
+           familyi={A\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d598bc518617965a1c93f844d22c554b}{%
+           family={Jarillo-Herrero},
+           familyi={J\bibinithyphendelim H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ab9b934b66d936bab39d1ab4fb40a8a}
+      \strng{fullhash}{3cac770ef04b15c872eaec3b40fdd4cd}
+      \strng{bibnamehash}{3cac770ef04b15c872eaec3b40fdd4cd}
+      \strng{authorbibnamehash}{3cac770ef04b15c872eaec3b40fdd4cd}
+      \strng{authornamehash}{4ab9b934b66d936bab39d1ab4fb40a8a}
+      \strng{authorfullhash}{3cac770ef04b15c872eaec3b40fdd4cd}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{01}
+      \field{number}{7484}
+      \field{title}{Tunable symmetry breaking and helical edge transport in a graphene quantum spin Hall state}
+      \field{volume}{505}
+      \field{year}{2014}
+      \field{pages}{528\bibrangedash 532}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/nature12800
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/nature12800
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/nature12800
+      \endverb
+    \endentry
+    \entry{Lee2019}{article}{}
+      \name{author}{14}{}{%
+        {{hash=3c4035b54cc46db1b01962ebfb9b636a}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Seunghun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f06f2766bc0cb745e2c8c212defea564}{%
+           family={Stanev},
+           familyi={S\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8346be56bc4c4c2248ba62db26a6c36e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiaohang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5429e3bf80657d9287911202abf266bf}{%
+           family={Stasak},
+           familyi={S\bibinitperiod},
+           given={Drew},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dc3dbef6bb613010f6e492c4b01cd619}{%
+           family={Flowers},
+           familyi={F\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4715397a30d12d89eb90d3c74defe073}{%
+           family={Higgins},
+           familyi={H\bibinitperiod},
+           given={Joshua\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=24134a8332f90a6c54d564b5c8ccdc3f}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Sheng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=311bc005f4fc80455a63d5a1e67129e1}{%
+           family={Blum},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e0ea1a7f840994dca0a9d86780e32eca}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Xiaoqing},
+           giveni={X\bibinitperiod}}}%
+        {{hash=b30a269b8a4a77bf3f14eef8f070227d}{%
+           family={Yakovenko},
+           familyi={Y\bibinitperiod},
+           given={Victor\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4cd7d3688caa4db79f20997b036b9ddc}{%
+           family={Paglione},
+           familyi={P\bibinitperiod},
+           given={Johnpierre},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c4cb67453a6a81b7e4042725814ff4a6}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Richard\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9411b7d9396895a4ec51bd58bd579b5e}{%
+           family={Galitski},
+           familyi={G\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=aeeb12d039b7ec9cacf3b7836a979fdd}{%
+           family={Takeuchi},
+           familyi={T\bibinitperiod},
+           given={Ichiro},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4e1d43148402f08a0ad3ec849c51883}
+      \strng{fullhash}{30fcd983655ecae44030cdf123d4b5e7}
+      \strng{bibnamehash}{30fcd983655ecae44030cdf123d4b5e7}
+      \strng{authorbibnamehash}{30fcd983655ecae44030cdf123d4b5e7}
+      \strng{authornamehash}{b4e1d43148402f08a0ad3ec849c51883}
+      \strng{authorfullhash}{30fcd983655ecae44030cdf123d4b5e7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{06}
+      \field{number}{7761}
+      \field{title}{Perfect Andreev reflection due to the Klein paradox in a topological superconducting state}
+      \field{volume}{570}
+      \field{year}{2019}
+      \field{pages}{344\bibrangedash 348}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/s41586-019-1305-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41586-019-1305-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41586-019-1305-1
+      \endverb
+    \endentry
+    \entry{Mele2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=405fa742e75e617668d679ec1b20c48f}{%
+           family={Mele},
+           familyi={M\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Taylor {\&} Francis}%
+      }
+      \strng{namehash}{405fa742e75e617668d679ec1b20c48f}
+      \strng{fullhash}{405fa742e75e617668d679ec1b20c48f}
+      \strng{bibnamehash}{405fa742e75e617668d679ec1b20c48f}
+      \strng{authorbibnamehash}{405fa742e75e617668d679ec1b20c48f}
+      \strng{authornamehash}{405fa742e75e617668d679ec1b20c48f}
+      \strng{authorfullhash}{405fa742e75e617668d679ec1b20c48f}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1468-6996}
+      \field{journaltitle}{Science and technology of advanced materials}
+      \field{month}{09}
+      \field{note}{TSTA11661087[PII]}
+      \field{number}{5}
+      \field{title}{Superconducting properties of iron chalcogenide thin films}
+      \field{volume}{13}
+      \field{year}{2012}
+      \field{pages}{054301\bibrangedash 054301}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1468-6996/13/5/054301
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/1468-6996/13/5/054301
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/1468-6996/13/5/054301
+      \endverb
+      \keyw{critical current; iron chalcogenides; iron-based superconductors; superconductors; thin films; upper critical field}
+    \endentry
     \entry{zalic2019}{article}{}
       \name{author}{6}{}{%
         {{hash=f4bcbd6f122050b08b133a450102f23f}{%
@@ -8823,7 +9114,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature News}
-      \field{month}{4}
+      \field{month}{04}
       \field{title}{Quantum computing's reproducibility crisis: Majorana fermions}
       \field{year}{2021}
       \verb{urlraw}
@@ -8882,8 +9173,8 @@
       \strng{authorbibnamehash}{d38420e91b201ccd64f2f2bbb3fedf3b}
       \strng{authornamehash}{cc1c88827a96f3e2db4daf836f2a453b}
       \strng{authorfullhash}{d38420e91b201ccd64f2f2bbb3fedf3b}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2045-2322}
@@ -9050,8 +9341,8 @@
       \strng{authornamehash}{43f6b7d8131958f2f51a0a7de999ff64}
       \strng{authorfullhash}{4fb263460de1c280e79879963d3d893a}
       \field{extraname}{7}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1745-2481}
@@ -9120,8 +9411,8 @@
       \strng{authorbibnamehash}{54a3b074a6570f4b0964d0816288bde6}
       \strng{authornamehash}{a2934f490ba2b6d535a3456bca67e683}
       \strng{authorfullhash}{54a3b074a6570f4b0964d0816288bde6}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{6}
@@ -9156,8 +9447,8 @@
       \strng{authorbibnamehash}{11036946bcb725ab8ebeb485c97e8ebb}
       \strng{authornamehash}{11036946bcb725ab8ebeb485c97e8ebb}
       \strng{authorfullhash}{11036946bcb725ab8ebeb485c97e8ebb}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sov. Phys. JETP}

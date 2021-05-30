@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  28 MAY 2021 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.15)  29 MAY 2021 18:50
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1352,18 +1352,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 [8] [9]
 Package acronym Info: Label `acro:TEM' newly defined as it shall be overridden
 although it is yet undefined on input line 21.
-)
+
+Overfull \hbox (11.54599pt too wide) in paragraph at lines 23--23
+ [][] [][]\OT1/cmr/m/n/12 Optical pho-tos and as-so-ci-ated con-duc-tance mea-s
+ure-ments of straight 
+ []
+
+Package acronym Info: Label `acro:PAR' newly defined as it shall be overridden
+although it is yet undefined on input line 27.
+[10])
 \tf@lof=\write9
 \openout9 = `thesis.lof'.
 
- [10] (abbr.tex
+ [11] (abbr.tex
 
-LaTeX Warning: Hyper reference `acro:AR' on page xi undefined on input line 1.
+LaTeX Warning: Hyper reference `acro:AR' on page xii undefined on input line 1.
 
 
-LaTeX Warning: Hyper reference `acro:AR' on page xi undefined on input line 1.
 
-[11pdfTeX warning (ext4): destination with the same identifier (name{ARPES}) ha
+LaTeX Warning: Hyper reference `acro:AR' on page xii undefined on input line 1.
+
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{ARPES}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
@@ -1374,7 +1384,7 @@ ed
 <to be read again> 
                    \relax 
 l.21 \acro{PVD}[PVD]{Physical Vapor Deposition}
-                                               ) [12]
+                                               ) [13]
 CHAPTER I.
 
 Package hyperref Warning: bookmark level for unknown chap defaults to 0.
@@ -1409,7 +1419,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./Intro/Figures/PWave_SC-eps-converted-to.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Intro/Figures/PWave_SC-eps-converted-to.pdf, id=558, 513.92pt x 224.84pt>
+<Intro/Figures/PWave_SC-eps-converted-to.pdf, id=572, 513.92pt x 224.84pt>
 File: Intro/Figures/PWave_SC-eps-converted-to.pdf Graphic file (type pdf)
 <use Intro/Figures/PWave_SC-eps-converted-to.pdf>
 Package pdftex.def Info: Intro/Figures/PWave_SC-eps-converted-to.pdf  used on i
@@ -1428,7 +1438,7 @@ CHAPTER II.
 (Chap2/chap2.tex [11
 
 ]
-<Chap2/Figures/IntroductionFigure.png, id=622, 483.7272pt x 345.9324pt>
+<Chap2/Figures/IntroductionFigure.png, id=637, 483.7272pt x 345.9324pt>
 File: Chap2/Figures/IntroductionFigure.png Graphic file (type png)
 <use Chap2/Figures/IntroductionFigure.png>
 Package pdftex.def Info: Chap2/Figures/IntroductionFigure.png  used on input li
@@ -1440,7 +1450,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 10
  []
 
 [12] [13 <./Chap2/Figures/IntroductionFigure.png>] [14]
-<Chap2/Figures/CharacterizationFigure.png, id=656, 257.2812pt x 266.9172pt>
+<Chap2/Figures/CharacterizationFigure.png, id=670, 257.2812pt x 266.9172pt>
 File: Chap2/Figures/CharacterizationFigure.png Graphic file (type png)
 <use Chap2/Figures/CharacterizationFigure.png>
 Package pdftex.def Info: Chap2/Figures/CharacterizationFigure.png  used on inpu
@@ -1452,7 +1462,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 23
  []
 
 [15] [16 <./Chap2/Figures/CharacterizationFigure.png>] [17]
-<Chap2/Figures/FabricationFigure.png, id=688, 483.2454pt x 323.7696pt>
+<Chap2/Figures/FabricationFigure.png, id=703, 483.2454pt x 323.7696pt>
 File: Chap2/Figures/FabricationFigure.png Graphic file (type png)
 <use Chap2/Figures/FabricationFigure.png>
 Package pdftex.def Info: Chap2/Figures/FabricationFigure.png  used on input lin
@@ -1466,7 +1476,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 38
 [18] [19 <./Chap2/Figures/FabricationFigure.png>] [20] [21]) [22]
 CHAPTER III.
 (Chap3/chap3.tex
-<Chap3/Figures/F1V1.png, id=756, 505.89pt x 415.3116pt>
+<Chap3/Figures/F1V1.png, id=770, 505.89pt x 415.3116pt>
 File: Chap3/Figures/F1V1.png Graphic file (type png)
 <use Chap3/Figures/F1V1.png>
 Package pdftex.def Info: Chap3/Figures/F1V1.png  used on input line 5.
@@ -1479,7 +1489,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 6
 [23
 
 ] [24] [25 <./Chap3/Figures/F1V1.png>] [26]
-<Chap3/Figures/Figure2.png, id=849, 556.479pt x 387.3672pt>
+<Chap3/Figures/Figure2.png, id=863, 556.479pt x 387.3672pt>
 File: Chap3/Figures/Figure2.png Graphic file (type png)
 <use Chap3/Figures/Figure2.png>
 Package pdftex.def Info: Chap3/Figures/Figure2.png  used on input line 22.
@@ -1490,7 +1500,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 23
  []
 
 [27] [28 <./Chap3/Figures/Figure2.png>] [29] [30]
-<Chap3/Figures/Figure3.png, id=915, 550.2156pt x 193.6836pt>
+<Chap3/Figures/Figure3.png, id=929, 550.2156pt x 193.6836pt>
 File: Chap3/Figures/Figure3.png Graphic file (type png)
 <use Chap3/Figures/Figure3.png>
 Package pdftex.def Info: Chap3/Figures/Figure3.png  used on input line 37.
@@ -1501,7 +1511,7 @@ Overfull \hbox (58.58412pt too wide) detected at line 38
  []
 
 [31] [32 <./Chap3/Figures/Figure3.png>]
-<Chap3/Figures/Figure4.png, id=934, 572.3784pt x 192.72pt>
+<Chap3/Figures/Figure4.png, id=948, 572.3784pt x 192.72pt>
 File: Chap3/Figures/Figure4.png Graphic file (type png)
 <use Chap3/Figures/Figure4.png>
 Package pdftex.def Info: Chap3/Figures/Figure4.png  used on input line 47.
@@ -1514,112 +1524,96 @@ Overfull \hbox (58.58412pt too wide) detected at line 48
 [33]) [34 <./Chap3/Figures/Figure4.png>] [35]
 CHAPTER IV.
 (Chap4/Chap4.tex
-Overfull \hbox (2.30629pt too wide) in paragraph at lines 4--4
+Overfull \hbox (2.30629pt too wide) in paragraph at lines 5--5
 []\OT1/cmr/bx/n/14.4 Observation of Bias-Independent Con-duc-tance Plateau 
  []
 
-Package acronym Info: Label `acro:BCS' newly defined as it shall be overridden
-although it is yet undefined on input line 5.
-Package acronym Info: Label `acro:PAR' newly defined as it shall be overridden
-although it is yet undefined on input line 5.
-[36
-
-]
-Package epstopdf Info: Source file: <Chap4/Figures/DeviceFab.eps>
-(epstopdf)                    date: 2021-05-15 12:28:16
-(epstopdf)                    size: 283211 bytes
-(epstopdf)             Output file: <Chap4/Figures/DeviceFab-eps-converted-to.p
-df>
-(epstopdf)                    date: 2021-05-18 19:55:32
-(epstopdf)                    size: 62480 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=Chap4/Figures/Device
-Fab-eps-converted-to.pdf Chap4/Figures/DeviceFab.eps>
-(epstopdf)             \includegraphics on input line 8.
-Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/DeviceFab-eps-converted-to.pdf, id=963, 469.755pt x 160.6pt>
-File: Chap4/Figures/DeviceFab-eps-converted-to.pdf Graphic file (type pdf)
-<use Chap4/Figures/DeviceFab-eps-converted-to.pdf>
-Package pdftex.def Info: Chap4/Figures/DeviceFab-eps-converted-to.pdf  used on 
-input line 8.
-(pdftex.def)             Requested size: 416.9982pt x 142.56349pt.
+<Chap4/Figures/DeviceFab.pdf, id=970, 469.75504pt x 159.86552pt>
+File: Chap4/Figures/DeviceFab.pdf Graphic file (type pdf)
+<use Chap4/Figures/DeviceFab.pdf>
+Package pdftex.def Info: Chap4/Figures/DeviceFab.pdf  used on input line 8.
+(pdftex.def)             Requested size: 416.9982pt x 141.9115pt.
 
 Overfull \hbox (58.58412pt too wide) detected at line 9
 \OT1/cmr/m/n/12 Figure 4.1: []
  []
 
+[36
+
+]
+Package acronym Info: Label `acro:BCS' newly defined as it shall be overridden
+although it is yet undefined on input line 12.
+ [37 <./Chap4/Figures/DeviceFab.pdf>]
+<Chap4/Figures/StraightVsRough.pdf, id=1020, 508.66333pt x 759.08049pt>
+File: Chap4/Figures/StraightVsRough.pdf Graphic file (type pdf)
+<use Chap4/Figures/StraightVsRough.pdf>
+Package pdftex.def Info: Chap4/Figures/StraightVsRough.pdf  used on input line 
+15.
+(pdftex.def)             Requested size: 381.49655pt x 569.30898pt.
+
+Overfull \hbox (58.58412pt too wide) detected at line 16
+\OT1/cmr/m/n/12 Figure 4.2: []
+ []
+
+<Chap4/Figures/ControlFlake.pdf, id=1021, 471.17764pt x 471.17764pt>
+File: Chap4/Figures/ControlFlake.pdf Graphic file (type pdf)
+<use Chap4/Figures/ControlFlake.pdf>
+Package pdftex.def Info: Chap4/Figures/ControlFlake.pdf  used on input line 21.
+
+(pdftex.def)             Requested size: 416.9982pt x 417.01016pt.
+
+Overfull \hbox (58.58412pt too wide) detected at line 22
+\OT1/cmr/m/n/12 Figure 4.3: []
+ []
+
+<Chap4/Figures/Temperature.pdf, id=1029, 470.78519pt x 471.17764pt>
+File: Chap4/Figures/Temperature.pdf Graphic file (type pdf)
+<use Chap4/Figures/Temperature.pdf>
+Package pdftex.def Info: Chap4/Figures/Temperature.pdf  used on input line 28.
+(pdftex.def)             Requested size: 416.9982pt x 417.34807pt.
+
+Overfull \hbox (58.58412pt too wide) detected at line 29
+\OT1/cmr/m/n/12 Figure 4.4: []
+ []
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+<Chap4/Figures/MagneticField.pdf, id=1048, 470.62611pt x 483.4109pt>
+File: Chap4/Figures/MagneticField.pdf Graphic file (type pdf)
+<use Chap4/Figures/MagneticField.pdf>
+Package pdftex.def Info: Chap4/Figures/MagneticField.pdf  used on input line 38
+.
+(pdftex.def)             Requested size: 416.9982pt x 428.3534pt.
 
-LaTeX Warning: Marginpar on page 37 moved.
+Overfull \hbox (58.58412pt too wide) detected at line 39
+\OT1/cmr/m/n/12 Figure 4.5: []
+ []
 
-[37]
-Package epstopdf Info: Source file: <Chap4/Figures/Temperature.eps>
-(epstopdf)                    date: 2021-05-15 12:28:16
-(epstopdf)                    size: 2523874 bytes
-(epstopdf)             Output file: <Chap4/Figures/Temperature-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2021-05-18 19:55:32
-(epstopdf)                    size: 563932 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=Chap4/Figures/Temper
-ature-eps-converted-to.pdf Chap4/Figures/Temperature.eps>
-(epstopdf)             \includegraphics on input line 16.
-Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/Temperature-eps-converted-to.pdf, id=974, 471.7625pt x 471.7625p
-t>
-File: Chap4/Figures/Temperature-eps-converted-to.pdf Graphic file (type pdf)
-<use Chap4/Figures/Temperature-eps-converted-to.pdf>
-Package pdftex.def Info: Chap4/Figures/Temperature-eps-converted-to.pdf  used o
-n input line 16.
-(pdftex.def)             Requested size: 416.9982pt x 417.00229pt.
-
+[38] [39 <./Chap4/Figures/StraightVsRough.pdf>] [40 <./Chap4/Figures/ControlFla
+ke.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package epstopdf Info: Source file: <Chap4/Figures/MagneticField.eps>
-(epstopdf)                    date: 2021-05-15 12:28:16
-(epstopdf)                    size: 204127 bytes
-(epstopdf)             Output file: <Chap4/Figures/MagneticField-eps-converted-
-to.pdf>
-(epstopdf)                    date: 2021-05-18 19:55:32
-(epstopdf)                    size: 60828 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=Chap4/Figures/Magnet
-icField-eps-converted-to.pdf Chap4/Figures/MagneticField.eps>
-(epstopdf)             \includegraphics on input line 26.
-Package epstopdf Info: Output file is already uptodate.
-<Chap4/Figures/MagneticField-eps-converted-to.pdf, id=990, 470.75874pt x 483.80
-75pt>
-File: Chap4/Figures/MagneticField-eps-converted-to.pdf Graphic file (type pdf)
-<use Chap4/Figures/MagneticField-eps-converted-to.pdf>
-Package pdftex.def Info: Chap4/Figures/MagneticField-eps-converted-to.pdf  used
- on input line 26.
-(pdftex.def)             Requested size: 416.9982pt x 428.55719pt.
-[38 <./Chap4/Figures/DeviceFab-eps-converted-to.pdf>] [39 <./Chap4/Figures/Temp
-erature-eps-converted-to.pdf>]
-
-LaTeX Warning: Marginpar on page 40 moved.
-
-
-LaTeX Warning: Reference `chap:chap3' on page 40 undefined on input line 31.
-
-) [40 <./Chap4/Figures/MagneticField-eps-converted-to.pdf>] [41]
+) [41] [42 <./Chap4/Figures/Temperature.pdf>] [43 <./Chap4/Figures/MagneticFiel
+d.pdf>]
 CHAPTER V.
-(Chap5/chap5.tex [42
+(Chap5/chap5.tex [44
 
 ]
 Package acronym Info: Label `acro:TI' newly defined as it shall be overridden
-although it is yet undefined on input line 4.
+although it is yet undefined on input line 3.
 Package acronym Info: Label `acro:DoS' newly defined as it shall be overridden
-although it is yet undefined on input line 4.
- [43] [44] [45] [46]) [47] [48
+although it is yet undefined on input line 3.
+ [45] [46] [47] [48]) [49] [50
 
 ]
 APPENDIX A.
 Package hyperref Info: bookmark level for unknown appendix defaults to 0 on inp
 ut line 200.
-(Appendices/ARFit.tex [49
+(Appendices/ARFit.tex [51
 
-] [50]
+] [52]
 Package epstopdf Info: Source file: <Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 507455 bytes
@@ -1631,7 +1625,7 @@ erted-to.pdf>
 ndreevDiagram-eps-converted-to.pdf Appendices/Figures/AndreevDiagram.eps>
 (epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=1116, 489.83pt x 43
+<Appendices/Figures/AndreevDiagram-eps-converted-to.pdf, id=1278, 489.83pt x 43
 1.6125pt>
 File: Appendices/Figures/AndreevDiagram-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -1644,7 +1638,7 @@ Overfull \hbox (61.51743pt too wide) detected at line 52
 \OT1/cmr/m/n/12 Figure A.1: []
  []
 
-[51]
+[53]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ac' on input line 56.
@@ -1659,8 +1653,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--65
 
  []
 
-[52] [53 <./Appendices/Figures/AndreevDiagram-eps-converted-to.pdf>] [54]
-[55]
+[54] [55 <./Appendices/Figures/AndreevDiagram-eps-converted-to.pdf>] [56]
+[57]
 Package epstopdf Info: Source file: <Appendices/Figures/BTKCalculations.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 659956 bytes
@@ -1672,7 +1666,7 @@ verted-to.pdf>
 TKCalculations-eps-converted-to.pdf Appendices/Figures/BTKCalculations.eps>
 (epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=1181, 469.755pt x 
+<Appendices/Figures/BTKCalculations-eps-converted-to.pdf, id=1343, 469.755pt x 
 528.97626pt>
 File: Appendices/Figures/BTKCalculations-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -1693,20 +1687,20 @@ Overfull \hbox (26.62497pt too wide) in paragraph at lines 156--168
 convolve(vector1,vector2).
  []
 
-[56] [57 <./Appendices/Figures/BTKCalculations-eps-converted-to.pdf>])
+[58] [59 <./Appendices/Figures/BTKCalculations-eps-converted-to.pdf>])
 Overfull \hbox (0.24886pt too wide) in paragraph at lines 177--203
 []\OT1/cmr/m/n/12 Algorithm 4 is an-other sim-ple func-tion to ei-ther fit the 
 temperature-dependence
  []
 
-[58] [59]
+[60] [61]
 APPENDIX B.
 (Appendices/Circuit.tex
 Overfull \hbox (22.07002pt too wide) detected at line 9
 []
  []
 
-[60
+[62
 
 ]
 Overfull \hbox (2.603pt too wide) in paragraph at lines 18--19
@@ -1714,10 +1708,10 @@ Overfull \hbox (2.603pt too wide) in paragraph at lines 18--19
 s to mea-sure the current-
  []
 
-[61]
+[63]
 Package acronym Info: Label `acro:LIA' newly defined as it shall be overridden
 although it is yet undefined on input line 22.
- [62]
+ [64]
 Package epstopdf Info: Source file: <Appendices/Figures/Circuit.eps>
 (epstopdf)                    date: 2021-05-15 12:28:16
 (epstopdf)                    size: 287519 bytes
@@ -1729,7 +1723,7 @@ o.pdf>
 ircuit-eps-converted-to.pdf Appendices/Figures/Circuit.eps>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
-<Appendices/Figures/Circuit-eps-converted-to.pdf, id=1289, 470.75874pt x 436.63
+<Appendices/Figures/Circuit-eps-converted-to.pdf, id=1451, 470.75874pt x 436.63
 126pt>
 File: Appendices/Figures/Circuit-eps-converted-to.pdf Graphic file (type pdf)
 <use Appendices/Figures/Circuit-eps-converted-to.pdf>
@@ -1746,7 +1740,7 @@ Overfull \hbox (61.02994pt too wide) detected at line 29
 \OT1/cmr/m/n/12 Figure B.1: []
  []
 
-[63] [64 <./Appendices/Figures/Circuit-eps-converted-to.pdf>]) [65]
+[65] [66 <./Appendices/Figures/Circuit-eps-converted-to.pdf>]) [67]
 Overfull \hbox (12.18007pt too wide) in paragraph at lines 215--215
 []\OT1/cmr/m/n/12 E. Noether, ``In-vari-ante vari-a-tion-sprob-leme'', ger, []N
 achrichten von der Gesellschaft
@@ -1758,7 +1752,7 @@ Overfull \hbox (6.85144pt too wide) in paragraph at lines 215--215
 c-ter-i-za-tion of skyrmions'',
  []
 
-[66
+[68
 
 ]
 Overfull \hbox (13.63039pt too wide) in paragraph at lines 215--215
@@ -1772,43 +1766,49 @@ Overfull \hbox (1.12332pt too wide) in paragraph at lines 215--215
 res'', []Physics-Uspekhi
  []
 
-[67]
+[69]
 Overfull \hbox (4.42299pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 study-ing the prop-er-ties of graphene.'', Na-ture Nan-otech-no
 l-ogy \OT1/cmr/bx/n/12 8\OT1/cmr/m/n/12 , 235{246 (2013). 
  []
 
-[68] [69]
+[70] [71]
 Overfull \hbox (19.02646pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 C. Casir-aghi, H. Guo, A. Geim, and K. Novoselov, ``Commensurat
 e-incommensurate
  []
 
-[70] [71]
+[72] [73]
 Overfull \hbox (5.11302pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 ``Reflection-symmetric second-order topo-log-i-cal in-su-la-tor
 s and su-per-con-duc-tors'',
  []
 
-[72] [73]
+[74] [75]
 Overfull \hbox (20.16069pt too wide) in paragraph at lines 215--215
 \OT1/cmr/m/n/12 log-i-cal sur-face state of fe(se,te)'', arXiv e-prints, arXiv:
 1812.08995, arXiv:1812.08995
  []
 
-[74]
+[76]
 Overfull \hbox (45.65329pt too wide) in paragraph at lines 215--215
 []\OT1/cmr/m/n/12 S. Sinha and K.[]W. Ng, ``Zero bias con-duc-tance peak en-han
 ce-ment in $[][][][][][]\OML/cmm/m/it/12 O[]=[]$
  []
 
-[75] [76]
+[77]
+Overfull \hbox (0.67606pt too wide) in paragraph at lines 215--215
+[]\OT1/cmr/m/n/12 S. Borisenko, V. Bezguba, A. Fe-dorov, Y. Kush-nirenko, V. Vo
+rosh-nin, M. Sturza,
+ []
+
+[78]
 Overfull \hbox (2.42221pt too wide) in paragraph at lines 215--215
 []\OT1/cmr/m/n/12 D. Daghero and G. R.S., ``Prob-ing multi-band su-per-con-duc-
 tiv-ity by point-contact
  []
 
-[77] (thesis.aux)
+[79] (thesis.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.88pt have occurred.
@@ -1823,10 +1823,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31871 strings out of 479321
- 603940 string characters out of 2856583
- 1449567 words of memory out of 3000000
- 48338 multiletter control sequences out of 15000+600000
+ 31859 strings out of 479321
+ 603844 string characters out of 2856583
+ 1446042 words of memory out of 3000000
+ 48320 multiletter control sequences out of 15000+600000
  418324 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,20n,116p,2286b,1465s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1855,9 +1855,9 @@ ason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C
 12.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/symbols/msam10.pfb><C:/Users/Mason/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/symbols/msbm10.pfb>
-Output written on thesis.pdf (90 pages, 4461310 bytes).
+Output written on thesis.pdf (93 pages, 5839206 bytes).
 PDF statistics:
- 1724 PDF objects out of 1728 (max. 8388607)
- 354 named destinations out of 1000 (max. 500000)
- 467 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1895 PDF objects out of 2073 (max. 8388607)
+ 358 named destinations out of 1000 (max. 500000)
+ 477 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -2737,6 +2737,7 @@
       \strng{authorbibnamehash}{f8bc2d45db742d5aa2b4d6010094c7b7}
       \strng{authornamehash}{54466a426eca53817f97b5a0a7b31d3e}
       \strng{authorfullhash}{f8bc2d45db742d5aa2b4d6010094c7b7}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -8196,91 +8197,46 @@
       \endverb
     \endentry
     \entry{Naidyuk2018}{article}{}
-      \name{author}{12}{}{%
-        {{hash=abe5f1bfc2e4fe18b8c49f0b29c5a60b}{%
+      \name{author}{2}{}{%
+        {{hash=3cf706ccb3e72a65f0a141803e9d5b18}{%
            family={Naidyuk},
            familyi={N\bibinitperiod},
-           given={Yurii},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=5d089fa49b475bc92153e4278499553a}{%
-           family={Kvitnitskaya},
-           familyi={K\bibinitperiod},
-           given={Oksana},
-           giveni={O\bibinitperiod}}}%
-        {{hash=e8548c890f5b49969ddef4d404735d3f}{%
-           family={Bashlakov},
-           familyi={B\bibinitperiod},
-           given={Dmytro},
-           giveni={D\bibinitperiod}}}%
-        {{hash=7abbcf91ecf3e513f78982f7a92fd1d3}{%
-           family={Aswartham},
-           familyi={A\bibinitperiod},
-           given={Saicharan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=621be50318179d717372ca7111676427}{%
-           family={Morozov},
-           familyi={M\bibinitperiod},
-           given={Igor},
-           giveni={I\bibinitperiod}}}%
-        {{hash=bb890de1d1b6b314d377144d08bb0e1f}{%
-           family={Chernyavskii},
-           familyi={C\bibinitperiod},
-           given={Ivan},
-           giveni={I\bibinitperiod}}}%
-        {{hash=afacf1884941ee5fe4e04074c83aa20e}{%
-           family={Fuchs},
-           familyi={F\bibinitperiod},
-           given={Günter},
-           giveni={G\bibinitperiod}}}%
-        {{hash=386d40de21cb3eff7b954cc768097e9f}{%
-           family={Drechsler},
-           familyi={D\bibinitperiod},
-           given={Stefan-Lüdwig},
-           giveni={S\bibinithyphendelim L\bibinitperiod}}}%
-        {{hash=40cd6a16a266c1b4d96ebc83ed7b1f82}{%
-           family={Hühne},
-           familyi={H\bibinitperiod},
-           given={Ruben},
-           giveni={R\bibinitperiod}}}%
-        {{hash=1c1c7f33dafd44959d4d4de90054e647}{%
-           family={Nielsch},
-           familyi={N\bibinitperiod},
-           given={Kornelius},
+           given={Yu.\bibnamedelimi G.},
+           giveni={Y\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d39d79a5a4b2b3eab8b3b8a070ffbbb4}{%
+           family={Gloos},
+           familyi={G\bibinitperiod},
+           given={K.},
            giveni={K\bibinitperiod}}}%
-        {{hash=5efebd03d3c83e5bbf9115f4d5de9d2f}{%
-           family={Büchner},
-           familyi={B\bibinitperiod},
-           given={Bernd},
-           giveni={B\bibinitperiod}}}%
-        {{hash=69706257744ce5e51c88e654a93ae9ba}{%
-           family={Efremov},
-           familyi={E\bibinitperiod},
-           given={Dmitriy},
-           giveni={D\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {{IOP} Publishing}%
-      }
-      \strng{namehash}{50eb4f2ebf99666b895a04d655aa95c5}
-      \strng{fullhash}{ab70ad002c149ee8c14859c667d7fb25}
-      \strng{bibnamehash}{ab70ad002c149ee8c14859c667d7fb25}
-      \strng{authorbibnamehash}{ab70ad002c149ee8c14859c667d7fb25}
-      \strng{authornamehash}{50eb4f2ebf99666b895a04d655aa95c5}
-      \strng{authorfullhash}{ab70ad002c149ee8c14859c667d7fb25}
+      \strng{namehash}{d7f77c929ee72ed016db45260483dcc5}
+      \strng{fullhash}{d7f77c929ee72ed016db45260483dcc5}
+      \strng{bibnamehash}{d7f77c929ee72ed016db45260483dcc5}
+      \strng{authorbibnamehash}{d7f77c929ee72ed016db45260483dcc5}
+      \strng{authornamehash}{d7f77c929ee72ed016db45260483dcc5}
+      \strng{authorfullhash}{d7f77c929ee72ed016db45260483dcc5}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2D Materials}
-      \field{month}{08}
+      \field{journaltitle}{Low Temperature Physics}
       \field{number}{4}
-      \field{title}{Surface superconductivity in the Weyl semimetal {MoTe}2 detected by point contact spectroscopy}
-      \field{volume}{5}
+      \field{title}{Anatomy of point-contact Andreev reflection spectroscopy from the experimental point of view}
+      \field{volume}{44}
       \field{year}{2018}
-      \field{pages}{045014}
-      \range{pages}{1}
+      \field{pages}{257\bibrangedash 268}
+      \range{pages}{12}
       \verb{doi}
-      \verb 10.1088/2053-1583/aad3e2
+      \verb 10.1063/1.5030447
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1063/1.5030447
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1063/1.5030447
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1063/1.5030447
       \endverb
     \endentry
     \entry{BTK}{article}{}
@@ -8438,78 +8394,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1038/s41535-020-00268-4
-      \endverb
-    \endentry
-    \entry{Young2014}{article}{}
-      \name{author}{8}{}{%
-        {{hash=4e00ca9f36cd5e17bb6aeb26c5f03619}{%
-           family={Young},
-           familyi={Y\bibinitperiod},
-           given={A.\bibnamedelimi F.},
-           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=e8a9a979b5998680b86e357d28d01a5b}{%
-           family={Sanchez-Yamagishi},
-           familyi={S\bibinithyphendelim Y\bibinitperiod},
-           given={J.\bibnamedelimi D.},
-           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=814b04840daeaa65e32e97b9a42ab5aa}{%
-           family={Hunt},
-           familyi={H\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod}}}%
-        {{hash=05f1419f475b79068c04af91cb4c4f91}{%
-           family={Choi},
-           familyi={C\bibinitperiod},
-           given={S.\bibnamedelimi H.},
-           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=43d8b33365445b3084333b504c933fac}{%
-           family={Watanabe},
-           familyi={W\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=4488630ad673cc4884e8a1f4996898bd}{%
-           family={Taniguchi},
-           familyi={T\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=0dce6e921360da0aca0cbe91b929f679}{%
-           family={Ashoori},
-           familyi={A\bibinitperiod},
-           given={R.\bibnamedelimi C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=d598bc518617965a1c93f844d22c554b}{%
-           family={Jarillo-Herrero},
-           familyi={J\bibinithyphendelim H\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{4ab9b934b66d936bab39d1ab4fb40a8a}
-      \strng{fullhash}{3cac770ef04b15c872eaec3b40fdd4cd}
-      \strng{bibnamehash}{3cac770ef04b15c872eaec3b40fdd4cd}
-      \strng{authorbibnamehash}{3cac770ef04b15c872eaec3b40fdd4cd}
-      \strng{authornamehash}{4ab9b934b66d936bab39d1ab4fb40a8a}
-      \strng{authorfullhash}{3cac770ef04b15c872eaec3b40fdd4cd}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1476-4687}
-      \field{journaltitle}{Nature}
-      \field{month}{01}
-      \field{number}{7484}
-      \field{title}{Tunable symmetry breaking and helical edge transport in a graphene quantum spin Hall state}
-      \field{volume}{505}
-      \field{year}{2014}
-      \field{pages}{528\bibrangedash 532}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1038/nature12800
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1038/nature12800
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1038/nature12800
       \endverb
     \endentry
     \entry{Lee2019}{article}{}
@@ -8880,6 +8764,120 @@
       \verb https://science.sciencemag.org/content/367/6474/189
       \endverb
     \endentry
+    \entry{Tang2019}{article}{}
+      \name{author}{8}{}{%
+        {{hash=bb20e08058438fb389214b23b833ff51}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Fangdong},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9853252e8871ea286af6ef908f1ae73e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Peipei},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c26cc02bbb5db725a2c79cb200894d76}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4408e1317010d8bca4976c2632e5fabb}{%
+           family={Gan},
+           familyi={G\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d732d1616ec04b0afed1d77c517d01ad}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={G\bibnamedelima D},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a7e165036018fe97a28fd3530200827a}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Mingquan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=615cd37326b05aa9da06beae02736ddd}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Liyuan},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{5ecfc26b625a957a3e06a4c2329ab48a}
+      \strng{fullhash}{d9d9a7fd8c2f7aacc11de0385828fa4d}
+      \strng{bibnamehash}{d9d9a7fd8c2f7aacc11de0385828fa4d}
+      \strng{authorbibnamehash}{d9d9a7fd8c2f7aacc11de0385828fa4d}
+      \strng{authornamehash}{5ecfc26b625a957a3e06a4c2329ab48a}
+      \strng{authorfullhash}{d9d9a7fd8c2f7aacc11de0385828fa4d}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics: Condensed Matter}
+      \field{month}{4}
+      \field{number}{26}
+      \field{title}{Quasi-2D superconductivity in {FeTe}0.55Se0.45 ultrathin film}
+      \field{volume}{31}
+      \field{year}{2019}
+      \field{pages}{265702}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-648x/ab14c3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/1361-648x/ab14c3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/1361-648x/ab14c3
+      \endverb
+    \endentry
+    \entry{Das2019}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=35e84162c8e5be65fb4231b2d9bd8004}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Shekhar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e89acff278549d6f729c32cf3ed8fd9a}{%
+           family={Gloos},
+           familyi={G\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3cf706ccb3e72a65f0a141803e9d5b18}{%
+           family={Naidyuk},
+           familyi={N\bibinitperiod},
+           given={Yu.\bibnamedelimi G.},
+           giveni={Y\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=b9c482538dbac130d81a7f4011ad949a}{%
+           family={Sheet},
+           familyi={S\bibinitperiod},
+           given={Goutam},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{08b4ac7d00e1a2d7855483b47c16f7b1}
+      \strng{fullhash}{8d59327806ce25ecbc01cbbe1107c102}
+      \strng{bibnamehash}{8d59327806ce25ecbc01cbbe1107c102}
+      \strng{authorbibnamehash}{8d59327806ce25ecbc01cbbe1107c102}
+      \strng{authornamehash}{08b4ac7d00e1a2d7855483b47c16f7b1}
+      \strng{authorfullhash}{8d59327806ce25ecbc01cbbe1107c102}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Comment on "Perfect Andreev reflection due to the Klein paradox in a topological superconducting state (Nature 570, 344 (2019))"}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb arXiv:1907.07338
+      \endverb
+    \endentry
     \entry{Mele2012}{article}{}
       \name{author}{1}{}{%
         {{hash=405fa742e75e617668d679ec1b20c48f}{%
@@ -8900,8 +8898,8 @@
       \strng{authorbibnamehash}{405fa742e75e617668d679ec1b20c48f}
       \strng{authornamehash}{405fa742e75e617668d679ec1b20c48f}
       \strng{authorfullhash}{405fa742e75e617668d679ec1b20c48f}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1468-6996}
@@ -8964,8 +8962,8 @@
       \strng{authorbibnamehash}{28f41d35955e53b2424ec422b727013e}
       \strng{authornamehash}{6fd1eb1c8356c869a13ba6fd13fefc15}
       \strng{authorfullhash}{28f41d35955e53b2424ec422b727013e}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physical Review B}
@@ -9802,8 +9800,8 @@
       \strng{authorbibnamehash}{11036946bcb725ab8ebeb485c97e8ebb}
       \strng{authornamehash}{11036946bcb725ab8ebeb485c97e8ebb}
       \strng{authorfullhash}{11036946bcb725ab8ebeb485c97e8ebb}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sov. Phys. JETP}

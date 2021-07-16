@@ -9,12 +9,12 @@
 %% Tentative: newtx for better-looking Times
 \usepackage[utf8]{inputenc}
 %\usepackage[T1]{fontenc}
-%\usepackage{newtxtext,newtxmath}
+\usepackage{newtxtext,newtxmath}
 
 %\usepackage{aas_macros}  % To allow the reading of ADS journal references in the bibliography
-\usepackage[intlimits]{amsmath} % Puts the limits of integrals on top and bottom
+\usepackage{amsmath} % Puts the limits of integrals on top and bottom
 \usepackage{amsxtra}     % Use various AMS packages
-\usepackage{amsthm,bbold}
+%\usepackage{amsthm,bbold}
 \usepackage{amssymb,fixmath}
 \usepackage{amsfonts}
 \usepackage{nicefrac}    % Add some packages for figures. Read epslatex.pdf on ctan.tug.org
@@ -38,32 +38,9 @@
 
 \usepackage{setspace}    % Allows you to specify the line spacing
 \doublespacing           % \onehalfspacing for 1.5 spacing, \doublespacing for 2.0 spacing.
-
-
-% Various theorem environments. All of the following have the same numbering
-% system as theorem.
-
-\theoremstyle{plain}
-\newtheorem{theorem}{Theorem}
-\newtheorem{prop}[theorem]{Proposition}
-\newtheorem{corollary}[theorem]{Corollary}
-\newtheorem{lemma}[theorem]{Lemma}
-\newtheorem{question}[theorem]{Question}
-\newtheorem{conjecture}[theorem]{Conjecture}
-\newtheorem{assumption}[theorem]{Assumption}
-
-\theoremstyle{definition}
-\newtheorem{definition}[theorem]{Definition}
-\newtheorem{notation}[theorem]{Notation}
-\newtheorem{condition}[theorem]{Condition}
-\newtheorem{example}[theorem]{Example}
-\newtheorem{introduction}[theorem]{Introduction}
-
-\theoremstyle{remark}
-\newtheorem{remark}[theorem]{Remark}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\numberwithin{theorem}{chapter}     % Numbers theorems "x.y" where x
+%\numberwithin{theorem}{chapter}     % Numbers theorems "x.y" where x
                                     % is the section number, y is the
                                     % theorem number
 
@@ -123,7 +100,7 @@
 
 
 % Title page as required by Rackham dissertation guidelines
-\titlepage{Electronic Spectroscopy of Topological Superconductor FeTe$_{(1-x)}$Se$_{x}$}{Mason J. Gray}
+\titlepage{Electronic Spectroscopy of Topological Superconductor FeTe$_{0.55}$Se$_{0.45}$}{Mason J. Gray}
 {Doctor of Philosophy}{May}{2021}
 
 % Begin the front matter as required by Rackham dissertation guidelines
@@ -142,17 +119,12 @@
 
 % Optional in-dissertation Abstract Page
 \startabstractpage
-{Electronic Spectroscopy of Topological Superconductor FeTe$_{(1-x)}$Se$_{x}$}{Mason J. Gray}{Kenneth S. Burch, Ph.D.}
+{Electronic Spectroscopy of Topological Superconductor FeTe$_{0.55}$Se$_{0.45}$}{Mason J. Gray}{Kenneth S. Burch, Ph.D.}
 \input{Abstract/Abstract}
 \label{Abstract}
 
 % Optional Dedication page
 %\dedicationpage{For my family and my loving, supporting wife, Amanda.}
-
-% Optional Acknowledgements page
-\startacknowledgementspage
-\input{Intro/Acknowledgements}
-\label{Acknowledgements}
 
 % Optional Preface page
 %\startprefacepage
@@ -166,6 +138,11 @@
 %\listofmaps          % Required if there is more than one map
 %\listofappendices    % Required if there is more than one appendix
 \listofabbreviations % Optional. Abbreviations should be stored in a file named abbr.tex
+
+% Optional Acknowledgements page
+\startacknowledgementspage
+\input{Intro/Acknowledgements}
+\label{Acknowledgements}
 
 \startthechapters
 % The individual files for each of the chapters are put here.

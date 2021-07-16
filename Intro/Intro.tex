@@ -51,10 +51,10 @@ where $\Psi_{p}=(c_{p}\quad c_{-p^{\dagger}})$. Diagonalizing the Hamiltonian gi
 \begin{align}
 	E_{\pm}(p) = \pm\sqrt{(2t\cos(p)+\mu)^{2}+4|\Delta|^{2}\sin^{2}(p)}
 \end{align}
-These eigenbands are plotted in Fig \ref{pwavesc} for various values of $\mu$ and setting $t$ and $|\Delta|$ both to 1. From these bands we can see the gap closes when $\mu=-2t$ with energy gaps for both $\mu>-2t$ and $\mu<-2t$. As it turns out, the energy gaps for $\mu < -2t$ are topologically non-trivial while the energy gaps for $\mu > -2t$ are trivial.
+These eigenbands are plotted in Fig \ref{fig:pwavesc} for various values of $\mu$ and setting $t$ and $|\Delta|$ both to 1. From these bands we can see the gap closes when $\mu=-2t$ with energy gaps for both $\mu>-2t$ and $\mu<-2t$. As it turns out, the energy gaps for $\mu < -2t$ are topologically non-trivial while the energy gaps for $\mu > -2t$ are trivial.
 \begin{figure}
 	\centering
-	\includegraphics[width=\textwidth]{Intro/Figures/PWave_SC.eps}
+	\includegraphics[width=\textwidth]{Intro/Figures/PWave_SC.pdf}
 	\caption{Dispersion relations of a 1D p-wave superconductor plotted at three different $\mu$ values. a) The trivial p-wave pairing scenario. The individual majorana particles each couple to the majorana on the same site. b) The critical value for $\mu$ where the gap closes. c) The topological p-wave pairing scenario. The majorana particles pair with majoranas on the nearest-neighbor site instead of on the same site. Two majorana zero modes are left on the edges of the wire, consistent with the bulk-boundary correspondence.}
 	\label{fig:pwavesc}
 \end{figure}
@@ -67,7 +67,7 @@ The first limit is the trivial phase when we choose $\mu < 0$ and $|\Delta|=t=0$
 \begin{align}
 	H = -\mu\frac{i}{2}\sum_{j}(a_{2j-1}a_{2j})
 \end{align}
-In this phase, the Majorana operators on each site are coupled together with an energy $\mu/2$ but there is no coupling between Majorana operators on different sites (see Fig \ref{pwavesc}). This is denoted as the trivial phase since there will be no low-energy states on the end of the chain if the boundaries are cut between sites. Said another way, the Majorana operators are localized to each site and are therefore in the atomic limit which is to say the trivial ground state.\par 
+In this phase, the Majorana operators on each site are coupled together with an energy $\mu/2$ but there is no coupling between Majorana operators on different sites (see Fig \ref{fig:pwavesc}). This is denoted as the trivial phase since there will be no low-energy states on the end of the chain if the boundaries are cut between sites. Said another way, the Majorana operators are localized to each site and are therefore in the atomic limit which is to say the trivial ground state.\par 
 The second limit is the topological phase where we choose $|\Delta|=t>0$ and $\mu=0$. Here, the Hamiltonian reduces to,
 \begin{align}
 	H=it\sum_{j}a_{2j}a_{2j+1}
